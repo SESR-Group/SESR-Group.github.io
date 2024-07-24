@@ -5,27 +5,24 @@ nav:
   tooltip: Published works
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
+# {% include icon.html icon="fa-solid fa-microscope" %} Research
 
-Our work is centered on advancing the foundational elements of the hydrogen economy, with a primary emphasis on two key disciplines:Chemical engineering and applied mathmatics. By combining the expertise of chemical engineering and applied mathematics, we strive to unlock new insights, innovations, and solutions to accelerate the transition towards a sustainable hydrogen-based economy.
+Our work is centered on advancing the foundational elements of sustainable energy storage and recycling, with a primary emphasis on three key disciplines: **EV Battery recycling**, **Bio-energy production**, and **Green electrolyte engineering**. By combining expertise in these areas, we strive to unlock new insights, innovations, and solutions to accelerate the transition towards a sustainable energy future.
 
-For more details,please contact [Prof.Sai Gu](https://warwick.ac.uk/fac/sci/eng/people/sai_gu/) for more information.
-
+For more details, please contact [Dr. Nikiforidis Georgios](https://scholar.google.com/citations?user=3D4G2t8AAAAJ&hl=en&oi=ao) for more information.
 
 {%
   include button.html
   icon="fa-brands fa-google"
   text="More on Google Scholar"
-  link="https://scholar.google.com/citations?user=EufoqsMAAAAJ&hl=zh-CN&oi=ao"
+  link="https://scholar.google.com/citations?user=3D4G2t8AAAAJ&hl=en&oi=ao"
 %}
 {%
   include button.html
   icon="fa-solid fa-book-open"
-  text="Warwick Homepage"
-  link="https://warwick.ac.uk/fac/sci/eng/people/sai_gu/"
+  text="UCL Homepage"
+  link="https://www.ucl.ac.uk/institute-for-materials-discovery/about"
 %}
-
-
 
 ## All
 

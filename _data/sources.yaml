@@ -1,34 +1,111 @@
-- id: doi:10.1016/j.rser.2010.06.014
+# DO NOT EDIT, GENERATED AUTOMATICALLY
+
+- id: doi:10.1038/s41563-020-0605-0
+  title: Biofuel powered glucose detection in bodily fluids with an n-type conjugated polymer
+  authors:
+  - D Ohayon
+  - G Nikiforidis
+  - A Savva
+  - A Giugni
+  - S Wustoni
+  - T Palanisamy
+  publisher: Nature materials
+  date: '2020'
   type: paper
-  description: The present review is a critical appraisal of the commercialization potential of microalgae biofuels. 
-  date: 2010-12-4
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S1364032110001619-gr3.jpg
+  description: A study on glucose detection in bodily fluids using biofuel-powered sensors.
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41563-020-0605-0/MediaObjects/41563_2020_605_Fig1_HTML.png?as=webp
   buttons:
-    - type: Biofuels
-      link: https://en.wikipedia.org/wiki/Biofuel
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-
+  - type: Biofuels
+    link: https://en.wikipedia.org/wiki/Biofuel
+  - type: source
+    text: Manuscript Source
+    link: https://github.com/greenelab/meta-review
   tags:
-    - Commercialization
-    - Biofuels
-  repo: https://www.sciencedirect.com/science/article/pii/S1364032110001619
+  - Glucose detection
+  - Biofuels
+  repo: https://www.nature.com/articles/s41563-020-0605-0
 
-- id: doi:10.1016/j.energy.2023.127922
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0360544223013166-gr13_lrg.jpg
+- id: doi:10.1002/cplu.201402017
+  title: The development of Zn–Ce hybrid redox flow batteries for energy storage and their continuing challenges
+  authors:
+  - FC Walsh
+  - C Ponce de Léon
+  - L Berlouis
+  - G Nikiforidis
+  publisher: ChemPlusChem
+  date: '2015'
+  type: paper
+  description: Research on the development and challenges of Zn-Ce hybrid redox flow batteries for energy storage.
+  image: https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/4c6391e0-97e2-495d-80d3-f1e0eb9e2db0/cplu201402017-toc-0001-m.jpg
+  buttons:
+  - type: Redox Flow Batteries
+    link: https://en.wikipedia.org/wiki/Redox_flow_battery
+  tags:
+  - Redox Flow Batteries
+  - Energy Storage
+  repo: https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cplu.201402017
 
-- id: doi:10.1016/j.fuel.2022.126368
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0016236122031921-ga1_lrg.jpg
+- id: doi:10.1038/s41467-020-16919-0
+  title: Water stable molecular n-doping produces organic electrochemical transistors with high transconductance and record stability
+  authors:
+  - AF Paterson
+  - A Savva
+  - S Wustoni
+  - L Tsetseris
+  - BD Paulsen
+  - H Faber
+  - G Nikiforidis
+  publisher: Nature communications
+  date: '2020'
+  type: paper
+  description: Study on water stable molecular n-doping for producing organic electrochemical transistors with high transconductance and record stability.
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-020-16919-0/MediaObjects/41467_2020_16919_Fig1_HTML.png?as=webp
+  buttons:
+  - type: Electrochemical Transistors
+    link: https://en.wikipedia.org/wiki/Electrochemical_transistor
+  tags:
+  - Electrochemical Transistors
+  - Stability
+  repo: https://www.nature.com/articles/s41467-020-16919-0
 
-- id: doi:10.1007/s40747-022-00724-7
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs40747-022-00724-7/MediaObjects/40747_2022_724_Fig1_HTML.png?as=webp
+- id: doi:10.1002/adfm.202110165
+  title: Mixed conduction in an n‐type organic semiconductor in the absence of hydrophilic side‐chains
+  authors:
+  - J Surgailis
+  - A Savva
+  - V Druet
+  - BD Paulsen
+  - R Wu
+  - A Hamidi‐Sakr
+  - G Nikiforidis
+  publisher: Advanced Functional Materials
+  date: '2021'
+  type: paper
+  description: Research on mixed conduction in n-type organic semiconductors without hydrophilic side-chains.
+  image: https://onlinelibrary.wiley.com/cms/asset/9b8c7b7f-1dd7-4399-a8a2-6b9e4d5b5308/adfm.202110165.pdf
+  buttons:
+  - type: Organic Semiconductors
+    link: https://en.wikipedia.org/wiki/Organic_semiconductor
+  tags:
+  - Organic Semiconductors
+  - Mixed Conduction
+  repo: https://onlinelibrary.wiley.com/doi/10.1002/adfm.202110165
 
-- id: doi:10.3390/jimaging8070199
-  image: https://pub.mdpi-res.com/jimaging/jimaging-08-00199/article_deploy/html/images/jimaging-08-00199-g002.png?1658375306
-
-- id: doi:10.1016/j.fuel.2022.123615
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S001623612200480X-gr4.jpg
-
-- id: doi:10.1016/j.jcou.2021.101728 
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S221298202100295X-gr1_lrg.jpg
+- id: doi:10.1039/C9RA08919K
+  title: High and intermediate temperature sodium–sulfur batteries for energy storage: development, challenges and perspectives
+  authors:
+  - G Nikiforidis
+  - MCM Van de Sanden
+  - MN Tsampas
+  publisher: RSC Advances
+  date: '2019'
+  type: paper
+  description: An overview of high and intermediate temperature sodium-sulfur batteries, including development, challenges, and perspectives.
+  image: https://pubs.rsc.org/en/content/articlelanding/2019/RA/C9RA08919K
+  buttons:
+  - type: Sodium-Sulfur Batteries
+    link: https://en.wikipedia.org/wiki/Sodium-sulfur_battery
+  tags:
+  - Sodium-Sulfur Batteries
+  - Energy Storage
+  repo: https://pubs.rsc.org/en/content/articlelanding/2019/RA/C9RA08919K
