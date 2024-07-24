@@ -48,7 +48,7 @@
   file: sources.yaml
 
 - id: doi:10.1007/s40747-022-00724-7
-  title: The use of deep learning methods in low-dose computed tomography image reconstruction: a systematic review
+  title: The use of deep learning methods in low-dose computed tomography image reconstruction- a systematic review
   authors:
   - Minghan Zhang
   - Georgios Nikiforidis
