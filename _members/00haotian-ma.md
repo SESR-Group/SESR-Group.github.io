@@ -6,8 +6,8 @@ description: Ph.D. Student
 
 links:
   github: https://github.com/TSdreamer
-  data: https://haotian-ma.com
-  email: Haotian-ma@outlook.com
+  home-page: https://haotian-ma.com
+  email: Haotian-Ma@outlook.com
 ---
 
 

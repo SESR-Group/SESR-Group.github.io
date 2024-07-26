@@ -405,22 +405,28 @@
   - Zinc-Cerium Flow Batteries
   repo: https://www.sciencedirect.com/science/article/pii/S0013468614023536
 
-- id: doi:10.1016/j.jechem.2021.01.015
-  title: A highly concentrated vanadium protic ionic liquid electrolyte for the vanadium redox flow battery
+- id: doi:10.1016/j.ijggc.2024.104112
+  title: Technical and economic performance assessment of blue hydrogen production using new configuration through modelling and simulation
   authors:
-  - G Nikiforidis
-  - A Belhcen
-  - M Anouti
-  publisher: Journal of Energy Chemistry
-  date: '2020-08-31'
-  link: https://www.sciencedirect.com/science/article/pii/S2095495621000064
+  - Yiming Li
+  - Jiayi Ren
+  - Haotian Ma
+  - Alasdair N Campbell
+  publisher: International Journal of Greenhouse Gas Control
+  date: '2024-05-01'
+  link: https://doi.org/10.1016/j.ijggc.2024.104112
   type: paper
-  description: This paper explores the use of a highly concentrated vanadium protic ionic liquid electrolyte in vanadium redox flow batteries.
-  image: https://ars.els-cdn.com/content/image/X20954956.jpg
+  description: This study proposes a new configuration for blue hydrogen production using piperazine as a solvent, efficient heat exchange, and an advanced flash stripper. The technical and economic performance is assessed and compared to the standard SMR process.
+  image: https://ars.els-cdn.com/content/image/X17505836.jpg
   tags:
-  - Vanadium Redox Flow Batteries
-  - Ionic Liquid Electrolytes
-  repo: https://www.sciencedirect.com/science/article/pii/S2095495621000064
+  - Blue Hydrogen
+  - Steam Methane Reforming
+  - Carbon Emissions
+  - Piperazine
+  - Heat Exchange
+  - Advanced Flash Stripper
+  repo: https://www.sciencedirect.com/science/article/pii/S175058362300057X
+
 
 - id: doi:10.1002/mabi.202000215
   title: Benchmarking the Performance of Electropolymerized Poly (3, 4‐ethylenedioxythiophene) Electrodes for Neural Interfacing
