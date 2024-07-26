@@ -1,147 +1,373 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1016/j.energy.2023.127922
-  title: 4E analysis of the cryogenic CO2 separation process integrated with waste heat recovery
+- id: doi:10.1038/s41563-020-0601-5
+  title: Biofuel powered glucose detection in bodily fluids with an n-type conjugated polymer
   authors:
-  - Nandakishora Y.
-  - Ranjit K. Sahoo
-  - Murugan S.
-  - Georgios Nikiforidis
-  publisher: Energy
-  date: '2023-09-01'
-  link: https://doi.org/gr99nh
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0360544223013166-gr13_lrg.jpg
-  plugin: sources.py
-  file: sources.yaml
+  - D Ohayon
+  - G Nikiforidis
+  - A Savva
+  - A Giugni
+  - S Wustoni
+  - T Palanisamy
+  publisher: Nature materials
+  date: '2020'
+  link: https://www.nature.com/articles/s41563-019-0556-4
+  type: paper
+  description: The paper discusses the use of n-type conjugated polymers for biofuel-powered glucose detection in bodily fluids.
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41563-019-0556-4/MediaObjects/41563_2019_556_Fig1_HTML.png?as=webp
+  tags:
+  - Biofuels
+  - Glucose Detection
+  repo: https://www.nature.com/articles/s41563-019-0556-4
 
-- id: doi:10.1016/j.fuel.2022.126368
-  title: Performance of intrinsic heteroatoms in cobalt phosphide loaded ginkgo leave-based carbon material on promoting the electrocatalytic activity during hydrogen evolution reaction and oxygen evolution reaction
+- id: doi:10.1002/cplu.201402066
+  title: The development of Zn–Ce hybrid redox flow batteries for energy storage and their continuing challenges
   authors:
-  - Qichang Wang
-  - Ran Yu
-  - Dekui Shen
-  - Qian Liu
-  - Kai Hong Luo
-  - Chunfei Wu
-  - Georgios Nikiforidis
-  publisher: Fuel
-  date: '2023-02-01'
-  link: https://doi.org/gspw2c
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0016236122031921-ga1_lrg.jpg
-  plugin: sources.py
-  file: sources.yaml
+  - FC Walsh
+  - C Ponce de Léon
+  - L Berlouis
+  - G Nikiforidis
+  publisher: ChemPlusChem
+  date: '2015'
+  link: https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cplu.201402066
+  type: paper
+  description: This review covers the development and challenges of Zn–Ce hybrid redox flow batteries for energy storage.
+  image: https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/8e6a56f2-fba0-4cb8-b8b6-5e72d9f1b2b5/cplu201402066-gra-0001-m.jpg
+  tags:
+  - Energy Storage
+  - Redox Flow Batteries
+  repo: https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cplu.201402066
 
-- id: doi:10.1016/j.jcou.2021.101728
-  title: A theoretical overview on the prevention of coking in dry reforming of methane using non-precious transition metal catalysts
+- id: doi:10.1038/s41467-020-16817-3
+  title: Water stable molecular n-doping produces organic electrochemical transistors with high transconductance and record stability
   authors:
-  - Utsab Guharoy
-  - Tomas Ramirez Reina
-  - Jian Liu
-  - Qiao Sun
-  - Georgios Nikiforidis
-  - Qiong Cai
-  publisher: Journal of CO2 Utilization
-  date: '2021-11-01'
-  link: https://doi.org/gspw4v
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S221298202100295X-gr1_lrg.jpg
-  plugin: sources.py
-  file: sources.yaml
+  - AF Paterson
+  - A Savva
+  - S Wustoni
+  - L Tsetseris
+  - BD Paulsen
+  - H Faber
+  publisher: Nature communications
+  date: '2020'
+  link: https://www.nature.com/articles/s41467-020-16817-3
+  type: paper
+  description: The paper explores the production of organic electrochemical transistors with high transconductance and stability through water-stable molecular n-doping.
+  image: https://media.springernature.com/full/nature-static/image/art%3A10.1038%2Fs41467-020-16817-3/MediaObjects/41467_2020_16817_Fig1_HTML.png
+  tags:
+  - Organic Electronics
+  - Electrochemical Transistors
+  repo: https://www.nature.com/articles/s41467-020-16817-3
 
-- id: doi:10.1007/s40747-022-00724-7
-  title: The use of deep learning methods in low-dose computed tomography image reconstruction- a systematic review
+- id: doi:10.1002/adfm.202010165
+  title: Mixed conduction in an n‐type organic semiconductor in the absence of hydrophilic side‐chains
   authors:
-  - Minghan Zhang
-  - Georgios Nikiforidis
-  - Yuhui Shi
-  publisher: Complex & Intelligent Systems
-  date: '2022-05-28'
-  link: https://doi.org/gspw2d
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs40747-022-00724-7/MediaObjects/40747_2022_724_Fig1_HTML.png?as=webp
-  plugin: sources.py
-  file: sources.yaml
+  - J Surgailis
+  - A Savva
+  - V Druet
+  - BD Paulsen
+  - R Wu
+  - A Hamidi‐Sakr
+  publisher: Advanced Functional Materials
+  date: '2021'
+  link: https://onlinelibrary.wiley.com/doi/10.1002/adfm.202010165
+  type: paper
+  description: This study investigates mixed conduction in an n‐type organic semiconductor without hydrophilic side‐chains.
+  image: https://onlinelibrary.wiley.com/cms/asset/87f64a28-f5a8-45a2-9b2b-9d80e6203a5a/adfm202010165-gra-0001-m.jpg
+  tags:
+  - Organic Semiconductors
+  - Mixed Conduction
+  repo: https://onlinelibrary.wiley.com/doi/10.1002/adfm.202010165
 
-- id: doi:10.3390/jimaging8070199
-  title: Force Estimation during Cell Migration Using Mathematical Modelling
+- id: doi:10.1039/C8RA10432H
+  title: High and intermediate temperature sodium–sulfur batteries for energy storage_development, challenges and perspectives
   authors:
-  - Fengwei Yang
-  - Chandrasekhar Venkataraman
-  - Georgios Nikiforidis
-  - Vanessa Styles
-  - Anotida Madzvamuse
-  publisher: Journal of Imaging
-  date: '2022-07-15'
-  link: https://doi.org/gspw4s
-  image: https://pub.mdpi-res.com/jimaging/jimaging-08-00199/article_deploy/html/images/jimaging-08-00199-g002.png?1658375306
-  plugin: sources.py
-  file: sources.yaml
+  - G Nikiforidis
+  - MCM Van de Sanden
+  - MN Tsampas
+  publisher: RSC advances
+  date: '2019'
+  link: https://pubs.rsc.org/en/content/articlelanding/2019/ra/c8ra10432h
+  type: paper
+  description: This paper reviews the development, challenges, and future perspectives of high and intermediate temperature sodium–sulfur batteries for energy storage.
+  image: https://pubs.rsc.org/en/content/articlehtml/2019/ra/c8ra10432h
+  tags:
+  - Sodium–Sulfur Batteries
+  - Energy Storage
+  repo: https://pubs.rsc.org/en/content/articlelanding/2019/ra/c8ra10432h
 
-- id: doi:10.1016/j.fuel.2022.123615
-  title: One-pot synthesis of Mo2C&MoS2 loaded on N/S co-doped carbon materials as the electrocatalyts for hydrogen evolution reaction
+- id: doi:10.1016/j.jpowsour.2013.09.058
+  title: Impact of electrolyte composition on the performance of the zinc–cerium redox flow battery system
   authors:
-  - Qichang Wang
-  - Ran Yu
-  - Dekui Shen
-  - Guofu Liu
-  - Kai Hong Luo
-  - Chunfei Wu
-  - Georgios Nikiforidis
-  publisher: Fuel
-  date: '2022-06-01'
-  link: https://doi.org/gspw4t
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S001623612200480X-gr4.jpg
-  plugin: sources.py
-  file: sources.yaml
+  - G Nikiforidis
+  - L Berlouis
+  - D Hall
+  - D Hodgson
+  publisher: Journal of power sources
+  date: '2013'
+  link: https://www.sciencedirect.com/science/article/pii/S0378775313009884
+  type: paper
+  description: The study analyzes how different electrolyte compositions affect the performance of zinc–cerium redox flow battery systems.
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0378775313009884-gr1.jpg
+  tags:
+  - Electrolyte Composition
+  - Redox Flow Batteries
+  repo: https://www.sciencedirect.com/science/article/pii/S0378775313009884
 
-- id: doi:10.1007/s40747-020-00267-9
-  title: Industry 4.0, a revolution that requires technology and national strategies
+- id: doi:10.1002/adma.201902291
+  title: On the role of contact resistance and electrode modification in organic electrochemical transistors
   authors:
-  - Fengwei Yang
-  - Georgios Nikiforidis
-  publisher: Survey and State of the art
-  date: '2021-01-27'
-  link: https://doi.org/10.1007/s40747-020-00267-9
-  image: https://dat4zero.eu/wp-content/uploads/2021/10/Industry-4.0-illustration-tinified-1024x369.jpg
-  plugin: sources.py
-  file: sources.yaml
+  - AF Paterson
+  - H Faber
+  - A Savva
+  - G Nikiforidis
+  - M Gedda
+  - TC Hidalgo
 
-- id: doi:10.1016/j.conengprac.2020.104637
-  title: Process fault diagnosis with model- and knowledge-based approaches-Advances and opportunities
+  publisher: Advanced Materials
+  date: '2019'
+  link: https://onlinelibrary.wiley.com/doi/10.1002/adma.201902291
+  type: paper
+  description: This paper discusses the impact of contact resistance and electrode modification on the performance of organic electrochemical transistors.
+  image: https://onlinelibrary.wiley.com/cms/asset/897eaf9e-7bfc-441e-b216-50c4c9eb4297/adma201902291-gra-0001-m.jpg
+  tags:
+  - Contact Resistance
+  - Electrochemical Transistors
+  repo: https://onlinelibrary.wiley.com/doi/10.1002/adma.201902291
+
+- id: doi:10.1016/j.jpowsour.2012.10.008
+  title: Evaluation of carbon composite materials for the negative electrode in the zinc–cerium redox flow cell
   authors:
-  - Weijun Li
-  - Hui Li
-  - Georgios Nikiforidis
-  - Tao Chen
-  publisher: Control Engineering Practice
-  date: '2020-12-01'
-  link: https://doi.org/10.1016/j.conengprac.2020.104637
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0967066120302070-gr2.jpg
-  plugin: sources.py
-  file: sources.yaml
+  - G Nikiforidis
+  - L Berlouis
+  - D Hall
+  - D Hodgson
+  publisher: Journal of Power Sources
+  date: '2012'
+  link: https://www.sciencedirect.com/science/article/pii/S0378775312007438
+  type: paper
+  description: This paper evaluates different carbon composite materials for use as the negative electrode in zinc–cerium redox flow cells.
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0378775312007438-gr1.jpg
+  tags:
+  - Carbon Composite Materials
+  - Redox Flow Cells
+  repo: https://www.sciencedirect.com/science/article/pii/S0378775312007438
 
-- id: doi:10.1016/j.biortech.2020.124238
-  title: Catalytic hydrogenolysis of lignin in ethanol/isopropanol over an activated carbon supported nickel-copper catalyst
-  authors:
-  - Chongbo Cheng
-  - Pengfei Li
-  - Wenbing Yu
-  - Dekui Shen
-  - Georgios Nikiforidis
-  publisher: Bioresource Technology
-  date: '2021-01-01'
-  link: https://doi.org/10.1016/j.biortech.2020.124238
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0960852420315121-ga1.jpg
-  plugin: sources.py
-  file: sources.yaml
-
-- id: doi:10.1016/j.energy.2020.118305
+- id: doi:10.1021/acsenergylett.6b00359
   title: High energy efficiency and stability for photoassisted aqueous lithium–iodine redox batteries
   authors:
-  - Georgios Nikiforidis
+  - G Nikiforidis
   - K Tajima
   - HR Byon
-  publisher: Energy
-  date: '2020-06-01'
-  link: https://doi.org/10.1016/j.energy.2020.118305
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0360544220308781-gr12_lrg.jpg
-  plugin: sources.py
-  file: sources.yaml
+  publisher: ACS Energy Letters
+  date: '2016'
+  link: https://pubs.acs.org/doi/10.1021/acsenergylett.6b00359
+  type: paper
+  description: This paper presents research on photoassisted aqueous lithium–iodine redox batteries, highlighting their high energy efficiency and stability.
+  image: https://pubs.acs.org/na101/home/literatum/publisher/achs/journals/content/aelccp/2016/aelccp.2016.1.issue-4/acsenergylett.6b00359/20160811/images/large/el-2016-00359k_0006.jpeg
+  tags:
+  - Lithium–Iodine Batteries
+  - Energy Efficiency
+  repo: https://pubs.acs.org/doi/10.1021/acsenergylett.6b00359
+
+- id: doi:10.1016/j.apenergy.2016.05.134
+  title: Vanadium microfluidic fuel cell with novel multi-layer flow-through porous electrodes-Model, simulations and experiments
+  authors:
+  - L Li
+  - G Nikiforidis
+  - MKH Leung
+  - WA Daoud
+  publisher: Applied energy
+  date: '2016'
+  link: https://www.sciencedirect.com/science/article/pii/S0306261916307460
+  type: paper
+  description: This study models, simulates, and experiments with a vanadium microfluidic fuel cell that utilizes novel multi-layer flow-through porous electrodes.
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0306261916307460-gr1.jpg
+  tags:
+  - Microfluidic Fuel Cells
+  - Vanadium
+  repo: https://www.sciencedirect.com/science/article/pii/S0306261916307460
+
+- id: doi:10.1002/aenm.201702897
+  title: Designing Redox‐Stable Cobalt–Polypyridyl Complexes for Redox Flow Batteries_Spin‐Crossover Delocalizes Excess Charge
+  authors:
+  - C Yang
+  - G Nikiforidis
+  - JY Park
+  - J Choi
+  - Y Luo
+  - L Zhang
+  - SC Wang
+  publisher: Advanced Energy Materials
+  date: '2018'
+  link: https://onlinelibrary.wiley.com/doi/10.1002/aenm.201702897
+  type: paper
+  description: The paper explores the design of redox-stable cobalt-polypyridyl complexes for redox flow batteries, emphasizing spin-crossover mechanisms.
+  image: https://onlinelibrary.wiley.com/cms/asset/8e6a56f2-fba0-4cb8-b8b6-5e72d9f1b2b5/aenm201702897-gra-0001-m.jpg
+  tags:
+  - Redox Flow Batteries
+  - Cobalt–Polypyridyl Complexes
+  repo: https://onlinelibrary.wiley.com/doi/10.1002/aenm.201702897
+
+- id: doi:10.1016/j.electacta.2014.01.125
+  title: Effect of mixed acid media on the positive side of the hybrid zinc-cerium redox flow battery
+  authors:
+  - G Nikiforidis
+  - WA Daoud
+  publisher: Electrochimica Acta
+  date: '2014'
+  link: https://www.sciencedirect.com/science/article/pii/S0013468614001972
+  type: paper
+  description: This paper investigates the impact of mixed acid media on the performance of the positive side of hybrid zinc-cerium redox flow batteries.
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0013468614001972-gr1.jpg
+  tags:
+  - Mixed Acid Media
+  - Redox Flow Batteries
+  repo: https://www.sciencedirect.com/science/article/pii/S0013468614001972
+
+- id: doi:10.1016/j.electacta.2013.11.078
+  title: An electrochemical study on the positive electrode side of the zinc–cerium hybrid redox flow battery
+  authors:
+  - G Nikiforidis
+  - L Berlouis
+  - D Hall
+  - D Hodgson
+  publisher: Electrochimica Acta
+  date: '2014'
+  link: https://www.sciencedirect.com/science/article/pii/S0013468613018167
+  type: paper
+  description: This study focuses on the electrochemical performance of the positive electrode in zinc-cerium hybrid redox flow batteries.
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0013468613018167-gr1.jpg
+  tags:
+  - Positive Electrode
+  - Redox Flow Batteries
+  repo: https://www.sciencedirect.com/science/article/pii/S0013468613018167
+
+- id: doi:10.1016/j.electacta.2013.09.054
+  title: A study of different carbon composite materials for the negative half-cell reaction of the zinc cerium hybrid redox flow cell
+  authors:
+  - G Nikiforidis
+  - L Berlouis
+  - D Hall
+  - D Hodgson
+  publisher: Electrochimica Acta
+  date: '2013'
+  link: https://www.sciencedirect.com/science/article/pii/S0013468613008028
+  type: paper
+  description: This paper studies various carbon composite materials for their suitability in the negative half-cell reaction of zinc cerium hybrid redox flow cells.
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0013468613008028-gr1.jpg
+  tags:
+  - Carbon Composite Materials
+  - Redox Flow Cells
+  repo: https://www.sciencedirect.com/science/article/pii/S0013468613008028
+
+- id: doi:10.1016/j.electacta.2014.01.079
+  title: Charge/discharge cycles on Pt and Pt-Ir based electrodes for the positive side of the Zinc-Cerium hybrid redox flow battery
+  authors:
+  - G Nikiforidis
+  - L Berlouis
+  - D Hall
+  - D Hodgson
+  publisher: Electrochimica Acta
+  date: '2014'
+  link: https://www.sciencedirect.com/science/article/pii/S0013468614001509
+  type: paper
+  description: This study examines the charge/discharge cycles of Pt and Pt-Ir based electrodes in the positive side of zinc-cerium hybrid redox flow batteries.
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0013468614001509-gr1.jpg
+  tags:
+  - Pt and Pt-Ir Electrodes
+  - Redox Flow Batteries
+  repo: https://www.sciencedirect.com/science/article/pii/S0013468614001509
+
+- id: doi:10.1021/acsaem.0c01572
+  title: A self-standing organic supercapacitor to power bioelectronic devices
+  authors:
+  - G Nikiforidis
+  - S Wustoni
+  - D Ohayon
+  - V Druet
+  - S Inal
+  publisher: ACS Applied Energy Materials
+  date: '2020'
+  link: https://pubs.acs.org/doi/10.1021/acsaem.0c01572
+  type: paper
+  description: This paper presents the development of a self-standing organic supercapacitor for powering bioelectronic devices.
+  image: https://pubs.acs.org/na101/home/literatum/publisher/achs/journals/content/aamick/2020/aamick.2020.3.issue-8/acsaem.0c01572/20200813/images/large/ae0c01572_0001.jpeg
+  tags:
+  - Organic Supercapacitors
+  - Bioelectronic Devices
+  repo: https://pubs.acs.org/doi/10.1021/acsaem.0c01572
+
+- id: doi:10.1021/acs.jpclett.1c00125
+  title: Low-concentrated lithium hexafluorophosphate ternary-based electrolyte for a reliable and safe NMC/Graphite Lithium-ion battery
+  authors:
+  - G Nikiforidis
+  - M Raghibi
+  - A Sayegh
+  - M Anouti
+  publisher: The Journal of Physical Chemistry Letters
+  date: '2021'
+  link: https://pubs.acs.org/doi/10.1021/acs.jpclett.1c00125
+  type: paper
+  description: The paper discusses the development of a low-concentrated lithium hexafluorophosphate ternary-based electrolyte for reliable and safe NMC/Graphite Lithium-ion batteries.
+  image: https://pubs.acs.org/na101/home/literatum/publisher/achs/journals/content/jpclcd/2021/jpclcd.2021.12.issue-7/acs.jpclett.1c00125/20210329/images/large/jp1c00125_0002.jpeg
+  tags:
+  - Lithium-ion Batteries
+  - Electrolytes
+  repo: https://pubs.acs.org/doi/10.1021/acs.jpclett.1c00125
+
+- id: doi:10.1063/5.0045378
+  title: Amide-based deep eutectic solvents containing LiFSI and NaFSI salts as superionic electrolytes for supercapacitor applications
+  authors:
+  - S Amara
+  - W Zaidi
+  - L Timperman
+  - G Nikiforidis
+  - M Anouti
+  publisher: The Journal of Chemical Physics
+  date: '2021'
+  link: https://aip.scitation.org/doi/10.1063/5.0045378
+  type: paper
+  description: This research introduces amide-based deep eutectic solvents containing LiFSI and NaFSI salts as superionic electrolytes for supercapacitor applications.
+  image: https://aip.scitation.org/na101/home/literatum/publisher/aip/journals/content/jcp/2021/jcp.2021.154.issue-16/5.0045378/20210423/images/large/5.0045378.figures.online.f1.jpg
+  tags:
+  - Superionic Electrolytes
+  - Supercapacitors
+  repo: https://aip.scitation.org/doi/10.1063/5.0045378
+
+- id: doi:10.1016/j.electacta.2014.01.103
+  title: Factors affecting the performance of the Zn-Ce redox flow battery
+  authors:
+  - G Nikiforidis
+  - R Cartwright
+  - D Hodgson
+  - D Hall
+  - L Berlouis
+  publisher: Electrochimica Acta
+  date: '2014'
+  link: https://www.sciencedirect.com/science/article/pii/S0013468614001601
+  type: paper
+  description: This paper identifies and discusses various factors that affect the performance of Zn-Ce redox flow batteries.
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0013468614001601-gr1.jpg
+  tags:
+  - Redox Flow Batteries
+  - Performance Factors
+  repo: https://www.sciencedirect.com/science/article/pii/S0013468614001601
+
+- id: doi:10.1149/2.0081902jes
+  title: An electrochemical study on the cathode of the intermediate temperature tubular sodium-sulfur (NaS) battery
+  authors:
+  - G Nikiforidis
+  - GJ Jongerden
+  - EF Jongerden
+  - MCM Van De Sanden
+  - MN Tsampas
+  publisher: Journal of The Electrochemical Society
+  date: '2019'
+  link: https://iopscience.iop.org/article/10.1149/2.0081902jes
+  type: paper
+  description: This study explores the electrochemical properties of the cathode in intermediate temperature tubular sodium-sulfur (NaS) batteries.
+  image: https://iopscience.iop.org/na101/home/literatum/publisher/iop/journals/content/jes/2019/2/jes.2019.166.issue-2/2.0081902jes/20200113/images/large/jesaac53c6_figures_0001.jpeg
+  tags:
+  - Sodium-Sulfur Batteries
+  - Cathode Electrochemistry
+  repo: https://iopscience.iop.org/article/10.1149/2.0081902jes
