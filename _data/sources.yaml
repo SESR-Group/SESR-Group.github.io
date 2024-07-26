@@ -13,7 +13,7 @@
   date: '2019-12-16'
   link: https://www.nature.com/articles/s41563-019-0556-4
   type: paper
-  description: The paper discusses the use of n-type conjugated polymers for biofuel-powered glucose detection in bodily fluids.
+  description: A promising class of materials for applications that rely on electron transfer for signal generation are the n-type semiconducting polymers. Here we demonstrate the integration of an n-type conjugated polymer with a redox enzyme for the autonomous detection of glucose and power generation from bodily fluids. The reversible, mediator-free, miniaturized glucose sensor is an enzyme-coupled organic electrochemical transistor with a detection range of six orders of magnitude. This n-type polymer is also used as an anode and paired with a polymeric cathode in an enzymatic fuel cell to convert the chemical energy of glucose and oxygen into electrical power. 
   image: https://media.springernature.com/w440/springer-static/cover-hires/journal/41563/18/12
   tags:
   - Biofuels
@@ -31,7 +31,7 @@
   date: '2014-05-27'
   link: https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cplu.201402066
   type: paper
-  description: This review covers the development and challenges of Zn–Ce hybrid redox flow batteries for energy storage.
+  description: Platinum-based NOx storage and reduction (NSR) catalysts containing transition metal (Mn, Fe, or Co) have been prepared by using alumina–ceria–zirconia (ACZ) as a support. The strong interaction between Pt and transition metal induces a clear effect on NSR performance. The 0.5 wt % PtCo/Ba/ACZ shows higher NOx storage capacity (NSC) than 1.0 wt % Pt/Ba/ACZ (see figure), and Co addition allows Pt replacement in NSR catalysts.
   image: https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/b6f45c97-4acb-4b72-b74c-dfda4aaa6afb/mcontent.jpg
   tags:
   - Energy Storage
@@ -51,7 +51,7 @@
   date: '2020-06-12'
   link: https://www.nature.com/articles/s41467-020-16648-0
   type: paper
-  description: The paper explores the production of organic electrochemical transistors with high transconductance and stability through water-stable molecular n-doping.
+  description: n-doped polymers are unstable in electrochemical transistor operating environments, air and water (electrolyte). Here, the first demonstration of doping in electron transporting organic electrochemical transistors is reported. The ammonium salt tetra-n-butylammonium fluoride is simply admixed with the conjugated polymer poly(N,N’-bis(7-glycol)-naphthalene-1,4,5,8-bis(dicarboximide)-co-2,2’-bithiophene-co-N,N’-bis(2-octyldodecyl)-naphthalene-1,4,5,8-bis(dicarboximide), and found to act as a simultaneous molecular dopant and morphology-additive. The combined effects enhance the n-type transconductance with improved channel capacitance and mobility. Furthermore, operational and shelf-life stability measurements showcase the first example of water-stable n-doping in a polymer. Overall, the results set a precedent for doping/additives to impact organic electrochemical transistors as powerfully as they have in other semiconducting devices.
   image: https://jaspershen.github.io/journal_referee/nature_communications/featured.png
   tags:
   - Organic Electronics
@@ -71,7 +71,7 @@
   date: '2021-03-18'
   link: https://onlinelibrary.wiley.com/doi/10.1002/adfm.202010165
   type: paper
-  description: This study investigates mixed conduction in an n‐type organic semiconductor without hydrophilic side‐chains.
+  description: Organic electrochemical transistors (OECTs) are vital for biosensors and neuromorphic devices. This study shows that the ladder-type, side-chain-free polymer BBL outperforms the donor-acceptor copolymer P-90 in OECTs. BBL has better ion-to-electron coupling, higher mobility, and minimal swelling in electrolytes, maintaining its crystallite structure after doping. This side chain-free design approach could improve n-type OECT performance to match p-type counterparts.
   image: https://onlinelibrary.wiley.com/cms/asset/e897ec67-84dd-4769-b3be-87d5cfcd78d3/adfm202170145-gra-0001-m.jpg
   tags:
   - Organic Semiconductors
@@ -88,7 +88,7 @@
   date: '2019-02-04'
   link: https://pubs.rsc.org/en/content/articlehtml/2017/sc/c8ra08658c
   type: paper
-  description: This paper reviews the development, challenges, and future perspectives of high and intermediate temperature sodium–sulfur batteries for energy storage.
+  description: This review addresses the progress, prospects, and challenges of high and intermediate temperature sodium-sulfur (NaS) batteries. Metal sulfur batteries are appealing due to the high theoretical capacity of sulfur and the abundance of sodium. High-temperature NaS batteries are well-established but can improve in energy density and safety. Intermediate temperature NaS batteries promise lower manufacturing costs and enhanced safety. The article thoroughly discusses key components like electrolytes, separators, and cell configurations, alongside electrochemical reactions and processes at different temperatures. Future perspectives and technical challenges are also explored.
   image: https://pubs.rsc.org/image/article/2019/RA/c8ra08658c/c8ra08658c-f1_hi-res.gif
   tags:
   - Sodium–Sulfur Batteries
@@ -106,7 +106,7 @@
   date: '2013-04-02'
   link: https://www.sciencedirect.com/science/article/pii/S0378775313010446
   type: paper
-  description: The study analyzes how different electrolyte compositions affect the performance of zinc–cerium redox flow battery systems.
+  description: The zinc–cerium redox flow battery has the highest open circuit cell voltage (Ecell = 2.4 V) of all the common redox flow battery (RFB) systems being investigated. In this paper, carbon polymer composite materials based on polyvinyl ester and polyvinylidene difluoride are investigated as the negative electrode for this RFB system. Electrolyte composition, particularly on the negative side, is found to play a key role in maintaining high (∼90%) coulombic efficiencies for the different charge durations, from 10 min to 4 h, examined. Energy efficiencies >60% are obtained for temperatures in the range 45 °C–55 °C when the zinc ion concentration in the methanesulfonic acid electrolyte is 2.5 mol dm−3. No dependence of the energy efficiency on the flow velocity is found, over the range 7.5 cm s−1–13.5 cm−1.
   image: https://nfmlab.nankai.edu.cn/_upload/article/images/76/51/a984351d4c1681c1576dbe08047d/13a2924f-285a-47f0-9744-be6448c07bdb.jpg
   tags:
   - Electrolyte Composition
@@ -122,12 +122,11 @@
   - G Nikiforidis
   - M Gedda
   - TC Hidalgo
-
   publisher: Advanced Materials
   date: '2019-07-25'
   link: https://onlinelibrary.wiley.com/doi/10.1002/adma.201902291
   type: paper
-  description: This paper discusses the impact of contact resistance and electrode modification on the performance of organic electrochemical transistors.
+  description: Although MBT treatment is found to increase the transconductance three-fold, contact resistance is not found to be the dominant factor governing OECT performance. Additional morphology and surface energy investigations show that increased performance comes from SAM-enhanced source/drain electrode surface energy, which improves wetting, semiconductor/metal interface quality, and semiconductor morphology at the electrode and channel. Overall, contact resistance in n-type OECTs is investigated, whilst identifying source/drain electrode treatment as a useful device engineering strategy for achieving state of the art n-type OECTs.
   image: https://onlinelibrary.wiley.com/cms/asset/3bcb1b99-7ec9-4434-b50c-bc1659e1f805/adma201970260-gra-0001-m.jpg
   tags:
   - Contact Resistance
@@ -145,7 +144,7 @@
   date: '2012-05-15'
   link: https://www.sciencedirect.com/science/article/pii/S0378775311001145
   type: paper
-  description: This paper evaluates different carbon composite materials for use as the negative electrode in zinc–cerium redox flow cells.
+  description: An investigation into the suitability of three carbon composites as substrates for the negative electrode in the zinc–cerium redox flow cell has been carried out. The composite electrodes examined comprised the use of polyvinylidene fluoride (PVDF) and high density polyethylene (HDPE) as binders for the carbon and the third was a graphite foil electrode of ∼1 mm thickness. The zinc deposition process was carried out in a methane sulfonic acid (MSA) electrolyte at 60 °C and nucleation studies revealed the growth of the deposits to be instantaneous in this medium. Galvanostatic charge/discharge cycles were performed in order to test the performance of these composite materials under a variety of operating conditions. For all the materials, the highest charge/discharge coulombic efficiencies (∼95%) were found for the highest discharge current densities (200 mA cm−2) employed in the study but this falls as the charge period is increased. The effect of solution flow velocity is however less clear. Prolonged zinc charging–discharging cycling on the composite materials revealed that whereas the PVDF-based electrode exhibited no loss in efficiency with cycling (>250), a drastic reduction was observed for the HDPE-based and graphite foil electrodes beyond 70 cycles and this was accompanied by the physical deterioration in the electrode surface.
   image: https://ars.els-cdn.com/content/image/X03787753.jpg
   tags:
   - Carbon Composite Materials
@@ -162,7 +161,7 @@
   date: '2016-09-21'
   link: https://pubs.acs.org/doi/10.1021/acsenergylett.6b00359
   type: paper
-  description: This paper presents research on photoassisted aqueous lithium–iodine redox batteries, highlighting their high energy efficiency and stability.
+  description: This paper We demonstrated photoassisted lithium–iodine (Li–I2) redox cells integrated with a hematite photoelectrode that are applicable to energy storage systems (ESSs). The hematite photoelectrode presents low cost, light absorption in the visible light region, and inertness to aqueous electrolytes, which allow for stable production of photocurrent under illumination. In the aqueous Li–I2 redox cells, the harnessing of photoenergy generates photocarriers that promote the I– oxidation process without electrolysis of the aqueous solution. The energy efficiency for the photoassisted charge process is ∼95.4%, which is ∼20% higher than that in the absence of illumination at a current rate of 0.075 mA cm–2. The hematite is profoundly stable in aqueous I–/I3– catholyte and exhibits over 600 h of cycling without noticeable performance decay and photocorrosion. This achievement highlights photoinduced ESSs with improved energy efficiency.
   image: https://pubs.acs.org/cms/10.1021/aelccp.2016.1.issue-4/asset/158da484-1415-da48-d141-8da484d14158/aelccp.2016.1.issue-4.largecover.jpg
   tags:
   - Lithium–Iodine Batteries
@@ -180,7 +179,7 @@
   date: '2016-09-01'
   link: https://www.sciencedirect.com/science/article/pii/S0306261916306699
   type: paper
-  description: This study models, simulates, and experiments with a vanadium microfluidic fuel cell that utilizes novel multi-layer flow-through porous electrodes.
+  description: This paper presents computational and experimental studies of a vanadium microfluidic fuel cell using a novel configuration of multi-layer flow-through porous carbon paper electrodes. A priori modeling and simulation revealed that these porous substrates operated with non-uniform reaction rate and the reaction rate distribution is highly sensitive to the flow rate condition. Comparable cell performance was witnessed for electrodes partly modified in the high reaction rate region and electrodes modified in all parts. Therefore, multi-layer stacking of single-layer electrodes was proposed and implemented to facilitate selection of appropriate materials to accommodate the requirements of the different layers of the electrodes. Here, the electrode materials studied were pristine carbon paper and electrochemically superior platinum coated carbon paper. The results stemmed from modeling and experiments consistently revealed that the highest peak power densities were obtained in the case with electrode modification in the high reaction rate region. This study highlights the significance of the multi-layer electrode configuration associated with the balance between performance and cost of this energy system. Moreover, the multi-layer electrode configuration offers flexibility in terms of changing layer arrangement to cope with the operating condition leading to superior cell performance.
   image: https://th.bing.com/th/id/R.166ebf131552ab8e3e14ab0c7a7fffed?rik=1YcP%2bIFmmreXHg&riu=http%3a%2f%2fapplied-energy.org%2frem2018%2fpic%2fpaper.png&ehk=JNzkZTLL8TpIwRRg7Vs4y%2fhqFSn08MR0LD%2fPe0naqyY%3d&risl=&pid=ImgRaw&r=0
   tags:
   - Microfluidic Fuel Cells
@@ -201,7 +200,7 @@
   date: '2018-05-15'
   link: https://onlinelibrary.wiley.com/doi/10.1002/aenm.201702897
   type: paper
-  description: The paper explores the design of redox-stable cobalt-polypyridyl complexes for redox flow batteries, emphasizing spin-crossover mechanisms.
+  description: Redox-active organometallic molecules offer a promising avenue for increasing the energy density and cycling stability of redox flow batteries. The molecular properties change dramatically as the ligands are functionalized and these variations allow for improving the solubility and controlling the redox potentials to optimize their performance when used as electrolytes. Unfortunately, it has been difficult to predict and design the stability of redox-active molecules to enhance cyclability in a rational manner, in part because the relationship between electronic structure and redox behavior has been neither fully understood nor systematically explored. In this work, rational strategies for exploiting two common principles in organometallic chemistry for enhancing the robustness of pseudo-octahedral cobalt–polypyridyl complexes are developed. Namely, the spin-crossover between low and high-spin states and the chelation effect emerging from replacing three bidentate ligands with two tridentate analogues. Quantum chemical models are used to conceptualize the approach and make predictions that are tested against experiments by preparing prototype Co-complexes and profiling them as catholytes and anolytes. In good agreement with the conceptual predictions, very stable cycling performance over 600 cycles is found.
   image: https://onlinelibrary.wiley.com/cms/asset/f235a4d7-30b2-4008-8362-d86494ecf482/aenm.v8.14.cover.jpg
   tags:
   - Redox Flow Batteries
@@ -217,7 +216,7 @@
   date: '2014-06-02'
   link: https://www.sciencedirect.com/science/article/pii/S0013468614013589
   type: paper
-  description: This paper investigates the impact of mixed acid media on the performance of the positive side of hybrid zinc-cerium redox flow batteries.
+  description: The electrochemical activity of the Ce3+/4+ reaction in the presence of various mixed acid electrolytes containing methanesulfonic acid (MSA) as the base electrolyte along with hydrochloric, nitric and sulfuric acid was investigated as a function of acid concentration and reaction temperature on a Pt disk electrode. Cyclic voltammetry in 0.6 mol L−1 cerium and 4 mol L−1 MSA with 0.5 - 1 mol L−1 hydrochloric acid showed that the reversibility and kinetics of the Ce3+/4+ reaction were significantly enhanced compared to that containing MSA only. Higher diffusion coefficients (D) and exchange current densities (jo) were also obtained for the mixed acid media containing sulfuric and nitric acid, but in this case the reversibility of the reaction was not that improved.
   image: https://www.empaneda.com/wp-content/uploads/2023/05/ElectrochimicaActa.jpg
   tags:
   - Mixed Acid Media
@@ -235,7 +234,7 @@
   date: '2013-10-24'
   link: https://www.sciencedirect.com/science/article/pii/S0013468613018434
   type: paper
-  description: This study focuses on the electrochemical performance of the positive electrode in zinc-cerium hybrid redox flow batteries.
+  description: In this study, the electrochemical behaviour of the Ce3+/4+ redox couple in methanesulfonic acid medium on various electrode substrates was investigated as a function of temperature. Carbon composite electrodes as well as platinum and platinum iridium coated electrodes were studied for their suitability in carrying out the Ce3+/4+ redox reaction. Cyclic voltammetry in 0.8 mol dm−3 cerium and 4.5 mol dm−3 methanesulfonic acid solution showed that elevated temperatures favoured the Ce3+/Ce4+ reaction on the various platinum and platinum–iridium coated substrates as well as on carbon composite surfaces. The latter electrodes showed better kinetics than the metal coatings but deteriorated badly under the high positive potentials required for the cerium reaction. The exchange current density (jo), obtained through Tafel extrapolation, polarisation resistance and electrochemical impedance spectroscopy measurements, increased with temperature over the range 25 °C to 60 °C. The Pt–Ir coatings gave the largest jo at 60 °C and appear best suited for use as the positive electrode in the Zn–Ce redox flow battery.
   image: https://www.empaneda.com/wp-content/uploads/2023/05/ElectrochimicaActa.jpg
   tags:
   - Positive Electrode
@@ -253,7 +252,7 @@
   date: '2013-06-14'
   link: https://www.sciencedirect.com/science/article/pii/S0013468613018239
   type: paper
-  description: This paper studies various carbon composite materials for their suitability in the negative half-cell reaction of zinc cerium hybrid redox flow cells.
+  description: An investigation into the suitability of several carbon composites materials as substrates for the negative electrode in the zinc–cerium redox flow cell has been carried out. The zinc deposition process was carried out in a methanesulfonic acid electrolyte over the temperature range between 25 °C and 60 °C. Elevated temperatures increased the kinetics of the zinc deposition and dissolution reactions and also shifted the onset (nucleation) potential at more positive values. Galvanostatic charge/discharge cycles were performed in order to test the performance of these composite materials under a variety of operating conditions. For all the materials, the highest charge/discharge coulombic efficiencies (∼95%) were found at elevated temperatures. Yet, the voltage efficiencies were found to be higher at lower temperatures (viz. 25 °C). Increased methanesulfonic acid concentrations promoted the hydrogen evolution reaction which in turn led to lower coulombic efficiencies. Three of the composite carbon materials tested (viz. PVE, PVDF, HDPE-1) were found to be robust with no surface deterioration or loss in efficiency observed over 250 cycles. Scanning electron microscopy revealed the formation of zinc clusters/grains on all the substrates tested whilst dendritic and granular growth was also present on some of the carbon samples.
   image: https://www.empaneda.com/wp-content/uploads/2023/05/ElectrochimicaActa.jpg
   tags:
   - Carbon Composite Materials
@@ -271,7 +270,7 @@
   date: '2014-04-10'
   link: https://www.sciencedirect.com/science/article/pii/S0013468614001431
   type: paper
-  description: This study examines the charge/discharge cycles of Pt and Pt-Ir based electrodes in the positive side of zinc-cerium hybrid redox flow batteries.
+  description: In this study, the charge/discharge cycling behaviour of the Ce3+/Ce4+ redox couple in methanesulfonic acid medium on various Pt and Pt-Ir coated titania based substrates was investigated as a function of solution flow rate, temperature and charge/discharge current density using a rotating disk electrode. Although superior performances (in terms of the voltage efficiency, ηV) were obtained from the electrodes containing higher amounts of platinum, a deterioration of these electrodes with cycling was evident (after 150 cycles). At rotation rates between 600 rpm and 1200 rpm, high ηV (>90%) could be obtained as long as the current density j applied was below the mass transport limiting current density, jL. For j's above this value, the oxygen evolution reaction occurred with Ce3+ oxidation whereas the Ce4+ reduction was accompanied by oxygen reduction, resulting in lowered ηV's. Better stability towards cycling and higher ηV's were observed at 60 °C compared to 25 °C, especially for the etched Pt electrodes. The optimum loading for the Pt substrates was 3 g m−2 while for the case of the heat treated samples 10 g m−2 of Pt.
   image: https://www.empaneda.com/wp-content/uploads/2023/05/ElectrochimicaActa.jpg
   tags:
   - Pt and Pt-Ir Electrodes
@@ -290,7 +289,7 @@
   date: '2020-07-27'
   link: https://pubs.acs.org/doi/full/10.1021/acsaem.0c01299
   type: paper
-  description: This paper presents the development of a self-standing organic supercapacitor for powering bioelectronic devices.
+  description: The last decade has witnessed rapid progress in the development of implantable and wearable bio(chemical) sensors, which allow for real-time, continuous health monitoring. Among different device configurations, organic electrochemical transistors (OECTs) have shown great potential in transducing weak biological signals with on-site amplification and as components of complex circuits with low power requirements. Yet, a significant technological challenge remains in the way these devices are integrated with power sources that are conventionally bulky and rigid. Here, we present a simple process to assemble a supercapacitor (SC) that is self-standing, lightweight, and biocompatible and made of two identical conducting polymer (poly(3,4-ethylenedioxythiophene) electrodes and an agarose hydrogel comprising alkali metal halides. This SC is distinguished by its high energy and power density (20 Wh kg–1 and 105 W kg–1, respectively), moderate gravimetric specific capacitance (70 F g–1), excellent stability (charge retention of 75% after 12,000 cycles), operational flexibility (can accommodate various types of aqueous electrolytes), long-lasting self-discharge (>10 h), and fast response time (between 0.1 and 30 s). We use the SC to power a micron-scale OECT, which selectively detects sodium ions in aqueous media. When miniaturized, the SC maintains its high performance and delivers a volumetric capacitance of 240 F cm–3, highlighting the possibility of fabrication in nonstandard form factors to couple with various bioelectronic devices. This low-cost and portable power source instigates the development of robust and biocompatible onboard power sources to be implemented alongside biosensors.
   image: https://jasondrees.com/wp-content/uploads/2021/03/acs-aem-cover-scaled.jpg
   tags:
   - Organic Supercapacitors
@@ -308,7 +307,7 @@
   date: '2021-02-16'
   link: https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.0c03736
   type: paper
-  description: The paper discusses the development of a low-concentrated lithium hexafluorophosphate ternary-based electrolyte for reliable and safe NMC/Graphite Lithium-ion batteries.
+  description: Current commercial lithium-ion battery (LIB) electrolytes are heavily influenced by the cost, chemical instability, and thermal decomposition of the lithium hexafluorophosphate salt (LiPF6). This work studies the use of an unprecedently low Li salt concentration in a novel electrolyte, which shows equivalent capabilities to their commercial counterparts. Herein, the use of 0.1 M LiPF6 in a ternary solvent mixture of ethylene carbonate (EC), ethyl methyl carbonate (EMC), and 1,1,2,2-tetrafluoroethyl 2,2,2-trifluoroethyl ether (TFE) (3EC/7EMC/20TFE, by weight) is investigated for the first time in LiNi1/3Mn1/3Co1/3O2 (NMC111)/graphite pouch cells. In solution, the Li+ transport number and diffusion are governed by the Grotthuss mechanism, with transport properties being independent of salt concentration. The proposed electrolyte operates in a wide temperature window (0–40 °C), is nonflammable (self-extinguishing under 2 s), and shows adequately fast wetting (4 s). When incorporated into the NMC/graphite pouch cell, it initially forms a solid electrolyte interphase (SEI) with minimal gas formation followed by a comparable battery performance to standard LiPF6 electrolytes, validated by a high specific capacity of 165 mAh g–1, Coulombic efficiencies of 99.3%, and capacity retention of 85% over 700 cycles.
   image: https://pubs.acs.org/cms/10.1021/jpclcd.2021.12.issue-7/asset/17f07519-bf17-0751-bbf1-f07519bbf17f/jpclcd.2021.12.issue-7.largecover.jpg
   tags:
   - Lithium-ion Batteries
@@ -327,7 +326,7 @@
   date: '2021-04-26'
   link: https://pubs.aip.org/aip/jcp/article-abstract/154/16/164708/317426/Amide-based-deep-eutectic-solvents-containing?redirectedFrom=fulltext
   type: paper
-  description: This research introduces amide-based deep eutectic solvents containing LiFSI and NaFSI salts as superionic electrolytes for supercapacitor applications.
+  description: This work proposes two deep eutectic solvents (DESs) based on lithium bis(fluorosulfonyl)imide and sodium bis(fluorosulfonyl)imide together with N-methylacetamide and formamide as electrolytes for activated carbon (AC) electrochemical double-layer capacitors (EDLCs) at 25 °C. The formulated DESs exhibit a large electrochemical window (ΔE > 2.5 V), good thermal stability (∼150 °C) and ionic conductivity (3–4 mS cm−1), and moderate viscosity (11.3 mPa s). Through the Vogel–Tamman–Vulcher fitting equation, the evolution of pseudo-energy activation was delineated with respect to the nature of the H-bond donor or alkali salt. These electrolytes present a superionic character gleaned from the Walden classification, and their ionicity exceeds that of standard organic electrolytes based on similar alkali salts. The performance of the AC-based EDLC was assessed by cyclic voltammetry, electrochemical impedance spectroscopy, and galvanostatic charge/discharge, yielding 140 F g−1 with an 8% capacity retention during 200 h of floating. Based on the physicochemical properties and electrochemical performance of these DESs, they represent a promising green-alternative electrolyte for supercapacitor applications.
   image: https://aipp.silverchair-cdn.com/aipp/content_public/journal/jcp/issue/154/16/2/cover.jpeg?Expires=1725047501&Signature=3v2GlFYtNBShoADmwhWT6eWH6PKINsnLAJWEfnuv3lJVe3px6GV0Fbj9v2U6wgvZoU94FngiuAdDC8xtr8i-jZ1PCs7cQtPAg2OsPm9al0ycSZcBNUYA~lGxGdC1V7fjgmQfeXuU29noA7jlBhYa2MWIixhdsfoW6F-QMfN68VOOiBC~ZckD~h7pemWE1fcjN5XTbYYMzlFNTeSE4mHevAIZu3fR6G1BTZ7Mh3DkCX4-B4quA8c5QB3B5s-VaCH6pJQIXHsv7OBRWjHq6YW85f4Zgk5VCeiu5G0OLP1W9pZ8GzRAZ6FqaoH-yYnr~oTw0waMw8mCqh2a98Ajcze-sg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
   tags:
   - Superionic Electrolytes
@@ -346,7 +345,7 @@
   date: '2014-05-04'
   link: https://www.sciencedirect.com/science/article/pii/S001346861400930X
   type: paper
-  description: This paper identifies and discusses various factors that affect the performance of Zn-Ce redox flow batteries.
+  description: The Hull Cell was used to investigate the impact of current density j on the morphology and uniformity of zinc electrodeposited from a 2.5 mol dm−3 Zn2+ solution in 1.5 mol dm−3 methanesulfonic acid at 40 °C onto carbon-composite surfaces. The range of the applied deposition current density used was between 1 mA cm−2 and 100 mA cm−2. Good, robust deposits were obtained when j ≥ 10 mA cm_2 whereas at j's lower than this, patchy films formed due to the competing hydrogen evolution reaction (HER) on the bare carbon-composite surface. An understanding of these effects and its application in the redox flow battery enabled both the coulombic and cell potential efficiencies to be maintained at relatively high values, 90% and 69% respectively, indicating a successful inhibition of the HER on the fully formed Zn layer. Flow velocity at the low Reynolds number in the cell (Re <200) had little impact on the electrochemical cell performance. Depletion of the cerium species became an issue for long charge times.
   image: https://www.empaneda.com/wp-content/uploads/2023/05/ElectrochimicaActa.jpg
   tags:
   - Redox Flow Batteries
@@ -365,7 +364,7 @@
   date: '2019-01-12'
   link: https://iopscience.iop.org/article/10.1149/2.0491902jes/meta
   type: paper
-  description: This study explores the electrochemical properties of the cathode in intermediate temperature tubular sodium-sulfur (NaS) batteries.
+  description: The development of low-cost energy storage schemes is imminent in light of the ever-growing demand of electricity. Sodium-sulfur (NaS) batteries offer low-cost technology for energy storage applications due to the intrinsically high capacities of elemental sodium and sulfur as well as their abundant resources. Operating this battery technology on the intermediate range (130–200°C) can lead to lower material costs, mitigate thermal management and safety issues and enhance cycle life. Herein, an electrochemical study on the cathode of the IT NaS cell is performed at 150°C and a concentration range of 1.5 to 3 M sodium pentasulfide dissolved in tetraglyme, showing a robust long term performance (42 days of continuous cycling) with a volumetric energy density of 83 Wh L−1. Most importantly, the cell was eligible for a tenfold volume scale-up considerably enhancing its capacity (790 mAh) but in the same time somewhat hindered by mass transport, especially during the end of the discharge process as manifested by electrochemical impedance spectroscopy.
   image: https://www.electrochem.org/wp-content/uploads/2021/12/ECS_JES_RGB_fullsize-1504x2048.jpg
   tags:
   - Sodium-Sulfur Batteries
@@ -381,7 +380,7 @@
   date: '2015-03-17'
   link: https://www.sciencedirect.com/science/article/pii/S001346861500715X
   type: paper
-  description: This paper discusses the use of indium modified graphite electrodes in highly zinc containing methanesulfonate electrolyte for zinc-cerium redox flow batteries.
+  description: The zinc deposition and dissolution reaction in methanesulfonic acid (2.5 mol L−1 Zn(II) in 6.5 mol L−1 MSA) on indium modified graphite electrodes aiming to suppress the competing hydrogen evolution reaction (HER), was studied on the negative electrode reaction in the zinc-cerium redox flow battery. Cyclic voltammetry, Tafel extrapolation and electrochemical impedance spectroscopy found that elevated temperatures 40 °C improved the kinetics (jo =1 × 10−2 A cm−2) of the zinc reaction and shifted the nucleation potential positively by 65 mV. The modified graphite electrodes exhibited higher coulombic efficiencies (81%) than the “as received” electrode due to the reduction of HER. Higher voltage efficiencies (84%) were found at elevated temperatures irrespective of charging time or the modification method. The highest energy efficiency was 65% at 40 °C and 600 rpm for the modified electrode treated with the highest concentration of indium (0.2 mol L−1) and longest dipping period (5 h). Scanning electron microscopy showed no signs of dendritic growth but confirmed the formation of spikes and clusters. Energy dispersive X-ray spectroscopy of the modified graphite electrodes after 340 galvanic cycles showed that indium was still present at the surface of the electrode suggesting good durability.
   image: https://www.empaneda.com/wp-content/uploads/2023/05/ElectrochimicaActa.jpg
   tags:
   - Graphite Electrodes
@@ -398,7 +397,7 @@
   date: '2014-11-24'
   link: https://www.sciencedirect.com/science/article/pii/S0013468614023536
   type: paper
-  description: This study investigates the electrochemical behavior of carbon paper in cerium methanesulfonate electrolytes for zinc-cerium flow batteries.
+  description: The voltammetric behavior of the Ce(III)/(IV) half-cell reaction in various electrolytes containing 0.6 M Ce was investigated on both pristine and metal-modified carbon paper (CP) electrodes at three different temperatures (25, 40 and 55 °C) in order to find the most favorable electrochemical conditions. The pristine CP displayed robust electrochemical performance for up to 200 repetitive CV cycles while the Pt loaded electrode’s performance was stable for only 70 cycles, even though the latter exhibited a more reversible behavior, moving from a quasi-reversible to a reversible system (Dox. = 4.0 × 10−6 cm2 s−1 and Dred. = 2.5 × 10−6 cm2 s−1). The In and La metal modified electrodes did not show any improvement with regard to the kinetics or reversibility of the reaction. The addition of 1 M H2SO4 to the base electrolyte enhanced the cerium reduction reaction by a factor of 3, (−7.2 × 10−3 A cm−2). The highest exchange current densities (jo) were achieved at 40 °C for the CP-Pt (1 × 10−3 A cm−2) attributable to the presence of the catalytic Pt. Elevated temperatures (40 and 55 °C) improved D and ΔEp. while also the mass transport parameters a) dynamic viscosity (∼1.5 mPa·s) and b) electrolytic conductivity (∼265 mS cm−1) of the Ce(III)/(IV) half-cell reaction. Overall, pristine CP and to a lesser extent CP-Pt demonstrated good stability with prolonged cycling and kinetics comparable with the ones of Pt and Pt based electrodes.
   image: https://www.empaneda.com/wp-content/uploads/2023/05/ElectrochimicaActa.jpg
   tags:
   - Carbon Paper
@@ -442,7 +441,7 @@
   date: '2020-11-16'
   link: https://onlinelibrary.wiley.com/doi/10.1002/mabi.202000215
   type: paper
-  description: This paper benchmarks the performance of electropolymerized Poly (3, 4‐ethylenedioxythiophene) electrodes for neural interfacing.
+  description: The development of electronics adept at interfacing with the nervous system is an ever-growing effort, leading to discoveries in fundamental neuroscience applied in clinical setting. Highly capacitive and electrochemically stable electronic materials are paramount for these advances. A systematic study is presented where copolymers based on 3,4-ethylenedioxythiophene (EDOT) and its hydroxyl-terminated counterpart (EDOTOH) are electropolymerized in an aqueous solution in the presence of various counter anions and additives. Amongst the conducting materials developed, the copolymer p(EDOT-ran-EDOTOH) doped with perchlorate in the presence of ethylene glycol shows high specific capacitance (105 F g−1), and capacitance retention (85%) over 1000 galvanostatic charge–discharge cycles. A microelectrode array-based on this material is fabricated and primary cortical neurons are cultured therein for several days. The microelectrodes electrically stimulate targeted neuronal networks and record their activity with high signal-to-noise ratio. The stability of charge injection capacity of the material is validated via long-term pulsing experiments. While providing insights on the effect of additives and dopants on the electrochemical performance and operational stability of electropolymerized conducting polymers, this study highlights the importance of high capacitance accompanied with stability to achieve high performance electrodes for biological interfacing.
   image: https://onlinelibrary.wiley.com/cms/asset/38bef7c2-e96c-4010-852d-cb1f51bd3ca9/mabi202070023-gra-0001-m.jpg
   tags:
   - Neural Interfacing
@@ -458,7 +457,7 @@
   date: '2015-06-01'
   link: https://iopscience.iop.org/article/10.1149/2.0041506jes/meta
   type: paper
-  description: This study discusses the use of thermally modified graphite electrodes for the positive side of zinc-cerium redox flow batteries.
+  description: In this study, thermal modification of graphite electrodes for the positive side of the Zinc-Cerium redox flow battery is found to enhance their performance and stability by providing a larger and more chemically active surface area to carry out the Ce(III)/(IV) reaction. Prolonged calcination (>9.5 h) and firing temperatures greater than 600°C lead to a physical deterioration of the samples while at 300°C no effect on the cerium reaction within the investigated reaction temperature range (25–55°C) is evident. When treated at 600°C for 6 h, the milder oxidation conditions result in a porous graphite electrode (7.13 m2 g−1) with a low charge transfer resistance (0.14 mΩ cm−2) and negligible weight loss (WTL = 6%). This thermally treated electrode is robust under repetitive cycling (300 cyclic voltammograms) with no degradation occurring within the time frame of the experiment (20 h). The quasi-reversible kinetics of the Ce(III)/(IV) reaction improve with elevated temperatures (ko = 6.0 × 10−3 cm s−1, D = 8.5 × 10−6 cm2 s−1 and jo = 2.91 × 10−3 A cm−2) and are comparable to the present electrode of choice on this flow battery, the Pt-Ti mesh electrode.
   image: https://cms.iopscience.org/7207258b-d3d0-11e9-b831-037d18333577/journal_cover?guest=true
   tags:
   - Graphite Electrodes
@@ -476,7 +475,7 @@
   date: '2022-01-01'
   link: https://www.sciencedirect.com/science/article/pii/S2095495621002837
   type: paper
-  description: This study investigates the anion effect on Li/Na/K hybrid electrolytes for Graphite//NCA (LiNi0.8Co0.15Al0.05O2) Li-ion batteries.
+  description: The formulation of hybrids electrolytes containing (Li + Na or K) salts shows improved performances on NCA and graphite electrodes compared to that of standard electrolytes. These hybrids electrolytes are promising for lithium-efficient Li-ion batteries.
   image: https://www.sondii.com/data/publish/1587543958378547.jpg
   tags:
   - Li-ion Batteries
@@ -496,7 +495,7 @@
   date: '2022-06-01'
   link: https://pubs.aip.org/aip/apm/article/10/6/061101/2834971
   type: paper
-  description: This paper discusses the use of hydroxymethyl PEDOT microstructure-based electrodes for high-performance supercapacitors.
+  description: The development of conducting polymer-based supercapacitors offers remarkable advantages, such as good ionic and electronic conductivity, ease of synthesis, low processing cost, and mechanical flexibility. 3,4-ethylenedioxythiophene (PEDOT) is a conducting polymer with robust chemical and environmental stability during storage and operation in an aqueous environment. Yet, improving its electrochemical capacitance and cycle life remains a challenge for high-performance supercapacitors exceeding the current state-of-the-art. The fabrication of PEDOT composites with carbon nanomaterials and metal oxides is the commonly used approach to enhance capacitance and stability. This work discusses a comparative study to fabricate highly stable PEDOT derivative electrodes with remarkable specific capacitance via a straightforward electrochemical polymerization technique. The hydroxymethyl PEDOT (PEDOTOH) doped with perchlorate in a dichloromethane (DCM) solvent (197 F g−1) exhibits superior performance compared to the polymer formed in an aqueous solution (124 F g−1). Furthermore, the electropolymerized PEDOTOH on flexible Au/Kapton substrates was assembled into a free-standing symmetrical supercapacitor in an agarose additive-free gel. The use of agarose gel electrolytes can offer easy handling, no leakage, moderate ionic conductivity, and flexibility for miniaturization and integration. The supercapacitor reached a specific capacitance of 36.96 F g−1 at a current density of 13.7 A g−1, an energy density of 14.96 Wh kg−1, and a power density of 22.2 kW kg−1 among the highest values reported for PEDOT-based supercapacitors. The self-standing supercapacitor achieves an industry-par capacitance retention of ∼98% after 10000 charge/discharge cycles at 10 A g−1. This study provides insights into the effect of solvents and electropolymerization modes on the polymer structure and its electrochemical properties toward high-performance supercapacitor devices.
   image: https://www.researchgate.net/publication/370990782/figure/fig1/AS:11431281219384738@1706018538092/The-three-main-topical-categories-of-APL-Materials-and-the-range-of-topics-we-aim-to.jpg
   tags:
   - Supercapacitors
@@ -515,7 +514,7 @@
   date: '2021-07-30'
   link: https://link.springer.com/article/10.1007/s10800-021-01605-6
   type: paper
-  description: This study explores the effect of ionic liquid ratio in phosphonium ionic liquid-based electrolytes for high voltage Li-ion batteries.
+  description: Continuing the exploration of safe phosphonium-based electrolytes for lithium-ion battery (LIB) applications, we present herein the results of a nonflammable electrolyte containing methyl tributylphosphosphonium Bis(trifluoromethanesulfonyl) imide (Bu3MeP-TFSI) ionic liquid (IL) EC/EMC (1:1, wt) with 1 M LiPF6 on lithium manganese oxide (LMO), lithium nickel manganese oxide (LMNO), graphite, and lithium metal. A high wt% (10–30%) of IL propagates dead Li formation as opposed to 5% wt IL where superior performance to a standard commercial electrode was observed for 150 h of continuous cycling at 0.5 mAh cm−2. For the LMO//Li half-cell, the presence of the IL allowed cathode operation at high potentials (> 4.3 V vs. Li/Li+) with moderate capacity retention (90%). Despite the poor interface that arises from the viscosity of the phosphonium IL, at 5% wt, the LMNO//Li half-cell performance was reversible (DLi+  = 4.83 × 10–13 cm2 s−1) with a capacity retention of 86%, coulombic efficiencies above 98%, and an energy density of 294 Wh kg−1 for 50 cycles. Finally, the Gr//LMNO full-cell moderate performance (Qdischarge 100 mAh g−1 at C/10) proves the IL's efficacity as an additive but at the same time leaves room for further improvement.
   image: https://media.springernature.com/w316/springer-static/cover-hires/journal/10800?as=webp
   tags:
   - Li-ion Batteries
@@ -531,7 +530,7 @@
   date: '2021-08-03'
   link: https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/batt.202100132
   type: paper
-  description: This paper explores the use of ultra low LiPF6 concentrated electrolyte for efficient Li‐Ion batteries.
+  description: Dilute lithium salt electrolyte for LIB: The applicability of an ultra-low concentrated lithium salt electrolyte containing alkyl carbonate and poly(fluoroether) is investigated by electrochemical, morphological, and physicochemical means for safe and reliable LIBs. The proposed nonflammable electrolyte demonstrated in a range of cathodes and anodes at room temperature a solid performance, modest decomposition, and superior behavior to mainstream LIB electrolytes.
   image: https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/9c4b29fe-b721-4d79-a7b7-084cdedd5ed3/batt202100297-toc-0001-m.jpg
   tags:
   - Li-ion Batteries
@@ -549,7 +548,7 @@
   date: '2022-06-13'
   link: https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cphc.202200224
   type: paper
-  description: This paper explores the use of non-flammable sodium asymmetric imide salt-based deep eutectic solvent for supercapacitor applications.
+  description: Non-flammable, safe, and functional deep eutectic solvents based on sodium fluorosulfonyl trifluoromethanesulfonyl imide and sodium cyano-trifluoromethanesulfonyl imide with ethylene carbonate are used as electrolytes for supercapacitor applications.
   image: https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/e503014c-7255-4e4d-9bf1-d4990ba3c8e4/cphc202200692-toc-0001-m.jpg
   tags:
   - Supercapacitors
@@ -567,7 +566,7 @@
   date: '2021-03-10'
   link: https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/celc.202100223
   type: paper
-  description: This paper discusses various operational strategies to improve the performance and long-term cyclability of intermediate temperature sodium-sulfur batteries.
+  description: In this study, the real-time increase in pressure of the accumulated gases at the electrode/electrolyte interface serves as a safety criterion for four conductive electrolytes comprising acetonitrile (ACN) and organic salts. They include tetrafluoroborate as an anion and cyclic 1,1-dimethylpyrrolidinium (Pyr11+), spiro-(1,1′)-bipyrrolidinium (SBP+), acyclic methyl triethyl ammonium (Et3MeN+) or standard tetraethylammonium (Et4N+) as cations. The main focus lies on the SPBF4/ACN system. While the concentrated Pyr11BF4/ACN exhibits a minimal pressure evolution (≈25 Pa) under ambient conditions at 3.0 V, its electrochemical stability is inferior to SPBF4 at high operating voltage. The electrolytes with acyclic tetrafluoroborate salts (1.0 mol L−1) reveal a 20-fold increase in pressure due to the weak salt-ACN interactions and the subsequent high solvent evaporation. The pressure evolution at the interface of activated carbon/electrolyte in electrochemical double layer capacitor (EDLCs) is merely related to the operating voltage and cation nature, viz. Pyr11+ < SBP+ < Et4N+ < Et3MeN+. The fixed specific capacity of 109 F g−1, volumetric capacity of 76 F cm−3, and moderate gas generation (≈190 Pa at 3.0 V, that shifts to ≈400 Pa at 3.4 V) confirm the safe character of the SPBF4/ACN electrolyte for such energy storage devices.
   image: https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/9582d5db-3be4-492b-b010-c1a26f6f9b7a/celc202100160-toc-0001-m.jpg
   tags:
   - Sodium-Sulfur Batteries
@@ -602,7 +601,7 @@
   date: '2022-01-01'
   link: https://www.sciencedirect.com/science/article/pii/S0013468621018132
   type: paper
-  description: This paper explores the use of polarizable cesium cations for energy storage, from electrolyte characterization to EDLC application.
+  description: In the quest for new electrolytes on electrochemical energy storage devices, we present, characterize and test a simple organic electrolyte based on cesium bis (trifluoromethanesulfonyl) imide (CsTFSI) for supercapacitor (SC) application. The physicochemical properties of CsTFSI-based electrolytes in acetonitrile (ACN) and propylene carbonate (PC), alone and mixed with LiTFSI as a co-salt, were characterized under various concentrations and temperatures and revealed a different solution organization system, depending on the solvent and nature of the salt. The solvation radii based on the Jones-Dole-Kaminsky model indicated that ACN forms a single sphere of solvation around the cation Cs+, unlike PC, which does not solvate the large and polarizable Cs cation. The CsTFSI -ACN (1 mol L−1) electrolyte presents a suitable viscosity (<1 mPa•s) and density (36 mS cm−1) for SC application, ionic mobility within an extended temperature range (−40–60 °C), and its molecular level is compatible with the porosity of activated carbon (AC) electrodes. The nanopores of the ACs display good electronic conductivity and ion transport capability, characteristic of electrochemical double-layer capacitors EDLC within an electrochemical window of 3 V and a wide temperature span, i.e., −20–40 °C. In-situ measurements of accumulated gas pressure during typical galvanostatic charge-discharge protocols exposed a minimum pressure at 40 °C (2.6 × 108 Pa for CsTFSI-ACN, 1 mol L−1) compared to standard electrolytes (Et4BF4-ACN, 1 mol L−1) and yielded specific capacitances (Csp) of 115 F g−1 at a normalized current density of 2 A g−1. Standard accelerated aging floating tests confirmed the stability of the SCs (>100 h → 12% decrease on Csp). Finally, the suitability of CsTFSI as a co-salt (with lithium bis(trifluoromethanesulfonyl)imide, LiTFSI) was demonstrated for SC devices, aiming to boost Csp (i.e.,164 F g−1 for equimolar amounts of LiTFSI and CsTFSI). The above results attest to the functionality of CsTFSI as a promising salt for energy storage applications.
   image: https://www.empaneda.com/wp-content/uploads/2023/05/ElectrochimicaActa.jpg
   tags:
   - Energy Storage
@@ -622,7 +621,7 @@
   date: '2022-09-01'
   link: https://aces.onlinelibrary.wiley.com/doi/abs/10.1002/asia.202200427
   type: paper
-  description: This paper discusses the performance of PEDOTOH/PEO‐based supercapacitors in agarose gel electrolyte.
+  description: Poly(3,4-ethylenedioxythiophene) (PEDOT) is a prime example of conducting polymer materials for supercapacitor electrodes that offer ease of processability and sophisticated chemical stability during operation and storage in aqueous environments. Yet, continuous improvement of its electrochemical capacitance and stability upon long cycles remains a major interest in the field, such as developing PEDOT-based composites. This work evaluates the electrochemical performances of hydroxymethyl PEDOT (PEDOTOH) coupled with hydrogel additives, namely poly(ethylene oxide) (PEO), poly(acrylic acid) (PAA), and polyethyleneimine (PEI), fabricated via a single-step electrochemical polymerization method in an aqueous solution. The PEDOTOH/PEO composite exhibits the highest capacitance (195.2 F g−1) compared to pristine PEDOTOH (153.9 F g−1), PEDOTOH/PAA (129.9 F g−1), and PEDOTOH/PEI (142.3 F g−1) at a scan rate of 10 mV s−1. The PEDOTOH/PEO electrodes were then assembled into a symmetrical supercapacitor in an agarose gel. The type of supporting electrolytes and salt concentrations were further examined to identify the optimal agarose-based gel electrolyte. The supercapacitors comprising 2 M agarose-LiClO4 achieved a specific capacitance of 27.6 F g−1 at a current density of 2 A g−1, a capacitance retention of ∼94% after 10,000 charge/discharge cycles at 10.6 A g−1, delivering a maximum energy and power densities of 11.2 Wh kg−1 and 17.28 kW kg−1, respectively. The performance of the proposed supercapacitor outperformed several reported PEDOT-based supercapacitors, including PEDOT/carbon fiber, PEDOT/CNT, and PEDOT/graphene composites. This study provides insights into the effect of incorporated hydrogel in the PEDOTOH network and the optimal conditions of agarose-based gel electrolytes for high-performance PEDOT-based supercapacitor devices.
   image: https://aces.onlinelibrary.wiley.com/cms/asset/85921c9e-3a92-4f38-bc3b-a368d6cc0f59/asia202200707-toc-0001-m.jpg
   tags:
   - Supercapacitors
@@ -641,14 +640,14 @@
   - DJ Shiwarski
   publisher: Nature communications
   date: '2023-11-09'
-  link: https://www.nature.com/articles/s41467-023-07019-y
+  link: https://www.nature.com/articles/s41467-023-42697-2
   type: paper
-  description: This study explores electrocatalytic on-site oxygenation for transplanted cell-based therapies.
+  description: Implantable cell therapies and tissue transplants require sufficient oxygen supply to function and are limited by a delay or lack of vascularization from the transplant host. Previous exogenous oxygenation strategies have been bulky and had limited oxygen production or regulation. Here, we show an electrocatalytic approach that enables bioelectronic control of oxygen generation in complex cellular environments to sustain engineered cell viability and therapy under hypoxic stress and at high cell densities. We find that nanostructured sputtered iridium oxide serves as an ideal catalyst for oxygen evolution reaction at neutral pH. We demonstrate that this approach exhibits a lower oxygenation onset and selective oxygen production without evolution of toxic byproducts. We show that this electrocatalytic on site oxygenator can sustain high cell loadings (>60k cells/mm3) in hypoxic conditions in vitro and in vivo. Our results showcase that exogenous oxygen production devices can be readily integrated into bioelectronic platforms, enabling high cell loadings in smaller devices with broad applicability.
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-023-42697-2/MediaObjects/41467_2023_42697_Fig1_HTML.png
   tags:
   - Electrocatalysis
   - Cell-Based Therapies
-  repo: https://www.nature.com/articles/s41467-023-07019-y
+  repo: https://www.nature.com/articles/s41467-023-42697-2
 
 - id: doi:10.1002/celc.202300183
   title: Deep Eutectic Mn(NO3)2−H2O Binary System as a Safe, Cost‐Effective, and Efficient Electrolyte for Supercapacitor Applications
@@ -660,7 +659,7 @@
   date: '2023-06-19'
   link: https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/celc.202300183
   type: paper
-  description: This paper discusses a deep eutectic Mn(NO3)2−H2O binary system as a safe, cost-effective, and efficient electrolyte for supercapacitor applications.
+  description: This study shows that a widely available manganese nitrate hydrate salt, when dissolved in big quantities in an aqueous medium (concentrated), behaves like a deep eutectic mixture and exhibits favourable properties for rapid energy storage application.
   image: https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/0cbd15e9-7e29-4a1d-a535-b54475777194/celc202300250-toc-0001-m.jpg
   tags:
   - Supercapacitors
@@ -678,7 +677,7 @@
   date: '2022-09-01'
   link: https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/celc.202200571
   type: paper
-  description: This paper discusses effective ways to stabilize polysulfide ions for high-capacity Li− S batteries based on organic chalcogenide catholytes.
+  description: Performance parameters affecting the specific capacity and long-term performance of Li−S batteries were investigated. From tweaking the sulfur nature in the cathode to trapping the polysulfide ions to formulate catholytes with phenyl-dichalcogenide (PhX2Ph; X=S, Se), this study provided the important role of both catholyte and nature of cathode's sulfur on record-specific capacity (3000 mAh g−1 at a C/5) and high energy density (1853 Wh Kg−1).
   image: https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/18293320-9b6b-4e5b-baf4-9bf862d1a743/celc202200836-toc-0001-m.jpg
   tags:
   - Li-S Batteries
@@ -698,7 +697,7 @@
   date: '2023-05-12'
   link: https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/celc.202300102
   type: paper
-  description: This study explores the use of surfactants in lithium-ion batteries to protect graphite anode against passivation layer byproducts.
+  description:  The protective roles of three surfactants added to the electrolyte in the formation of the solid electrolyte interphase (SEI) layer on the graphite anode are compared and analyzed. Through electrochemical testing and surface characterization, it was observed that each surfactant had a distinct impact on the cycling behavior and performance of the cells.
   image: https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/0cbd15e9-7e29-4a1d-a535-b54475777194/celc202300250-toc-0001-m.jpg
   tags:
   - Lithium-ion Batteries
@@ -717,7 +716,7 @@
   date: '2024-01-17'
   link: https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/batt.202300560
   type: paper
-  description: This paper characterizes manganese acetate hydrate solutions and explores their potential use for energy storage applications.
+  description: This study explores manganese acetate hydrate solutions for energy storage, revealing notable thermal behaviors, unique transport properties, and effective performance in two-electrode supercapacitors. Manganese acetate emerges as a stable, green electrolyte, showcasing the potential for sustainable energy storage applications.
   image: https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/b4b190e2-51de-4213-921d-6739c6398e22/batt202400167-toc-0001-m.jpg
   tags:
   - Energy Storage
@@ -735,7 +734,7 @@
   date: '2022-09-01'
   link: https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/celc.202200881
   type: paper
-  description: This cover feature discusses effective ways to stabilize polysulfide ions for high-capacity Li− S batteries based on organic chalcogenide catholytes.
+  description: The Cover Feature illustrates the important role of both catholyte formulated with phenyl-dichalcogenide and nature of cathode's sulfur as key parameters enhancing the performance of Li-S batteries with high energy density.
   image: https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/18293320-9b6b-4e5b-baf4-9bf862d1a743/celc202200836-toc-0001-m.jpg
   tags:
   - Li-S Batteries
