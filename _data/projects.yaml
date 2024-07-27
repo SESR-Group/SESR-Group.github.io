@@ -1,24 +1,33 @@
-- title: UK Outstanding Young Scholars Society
-  subtitle: To support Chinese doctoral students and scholars in the UK through academic exchanges, career guidance, and development in academia, entrepreneurship, and employment.
+- title: Biofuel Powered Glucose Detection
+  subtitle: Autonomous glucose detection and power generation from bodily fluids using an n-type conjugated polymer
   group: featured
-  image: images/OYSS.jpg
-  link: https://www.oyss.org.uk/
-  description: The Outstanding Young Scholars Society, UK, founded by Professor Sai Gu, is a non-profit organization dedicated to supporting Chinese doctoral students and scholars.
+  image: https://media.springernature.com/w440/springer-static/cover-hires/journal/41563/18/12
+  link: https://www.nature.com/articles/s41563-019-0556-4
+  description: Integration of an n-type conjugated polymer with a redox enzyme for glucose detection and power generation. The sensor, an enzyme-coupled organic electrochemical transistor, shows a detection range of six orders of magnitude. This polymer is also used in an enzymatic fuel cell to convert glucose and oxygen into electrical power.
   tags:
-    - Outstanding Young Scholars
-    - China
-    - United Kingdom
+    - Biofuels
+    - Glucose Detection
 
-
-- title: Green Gas Catalyst
-  subtitle: Provide a highly effective catalytic solution utilising greenhouse gases and producing high-value chemicals
+- title: Water Stable Molecular n-Doping
+  subtitle: Enhancing organic electrochemical transistors with high transconductance and stability
   group: featured
-  image: images/GGC.png
-  link: https://ggcatalysts.co.uk/
-  description: The University of Surrey and the University of Alicante collaborated to patent a solid oxide material that is affordable and effective for catalysing CO2-rich bi-reformation.
+  image: https://jaspershen.github.io/journal_referee/nature_communications/featured.png
+  link: https://www.nature.com/articles/s41467-020-16648-0
+  description: Demonstration of water-stable n-doping in electron transporting organic electrochemical transistors. The doping enhances transconductance, channel capacitance, and mobility, with improved operational and shelf-life stability.
   tags:
-    - Greenhouse Gases  
-    - Catalysts
+    - Organic Electronics
+    - Electrochemical Transistors
+
+- title: High Energy Efficiency and Stability for Photoassisted Lithium–Iodine Redox Batteries
+  subtitle: Integrating hematite photoelectrodes for improved energy storage
+  group: featured
+  image: https://pubs.acs.org/cms/10.1021/aelccp.2016.1.issue-4/asset/158da484-1415-da48-d141-8da484d14158/aelccp.2016.1.issue-4.largecover.jpg
+  link: https://pubs.acs.org/doi/10.1021/acsenergylett.6b00359
+  description: Demonstration of photoassisted lithium–iodine (Li–I2) redox cells with hematite photoelectrodes, achieving high energy efficiency (∼95.4%) and stability over 600 hours of cycling.
+  tags:
+    - Lithium–Iodine Batteries
+    - Energy Efficiency
+
 
 - title: TSu Energy
   subtitle: Provide a data-driven approach to visualize and manage the electrochemical energy system
@@ -30,14 +39,6 @@
     - Machine Learning
     - Electrochemical Analysis
 
-- title: Industrial 6th sense
-  subtitle: Intergrate artificial intelligence,virtural reality,human-computer interaction to improve traditional chemical industry.
-  image: images/6th project.PNG
-  link: https://www.youtube.com/watch?v=Cqqmg0jK5TA&t=55s
-  description: Case-Integrate the stationary sensor, boston dynamic spot dog, ROS robot with the server and front end web page so that we can remotely operate ROS robot or Spot dog robot. 
-  tags:
-    - Virtural Reality  
-    - Artificial Intelligence  
 
 - title: Others2
   subtitle: a subtitle

@@ -1,11 +1,11 @@
 ---
 ---
 
-# Intelligent Energy System Lab
+# SESR Group
 
-[Intelligent Energy System Lab](https://uowhydrogen.github.io) is a research center at the University of Warwick led by Prof.Sai Gu.
-We focus on enabling the hydrogen economy and choose renewable hydrogen production as the main technical path.With years of continuous efforts on the fundamental material research and further apply artificial intelligence, virtural reality and other rapidly developing technology of the times, we enhance the impact of the research releated to hydrogen,and therefore unlock the potential of hydrogen energy.Our effort will help to accelerate the process of realizing hydrogen occupying 15% of energy sector and play a key role in future energy decarbonization.
+[Sustainable Energy Storage & Recycle (SESR) Group](https://SESR-Group.github.io) is a research center at University College London (UCL) led by Dr. Nikiforidis Georgios. The group is dedicated to creating sustainable energy storage materials and technologies, with a primary focus on three key areas: **EV Battery Recycling**, **Bio-energy Production**, and **Green Electrolyte Engineering**. Our goal is to advance the fundamental science and engineering principles that drive these fields, ultimately contributing to a sustainable energy future.
 
+Equipped with state-of-the-art facilities, SESR Group conducts groundbreaking research to develop innovative solutions that address critical challenges in energy storage and recycling. By leveraging advanced materials science, and artificial intelligence, we aim to enhance the efficiency, sustainability, and circularity of energy systems.
 
 {%
   include button.html
@@ -24,9 +24,9 @@ We focus on enabling the hydrogen economy and choose renewable hydrogen producti
 
 ## Highlights
 
-{%capture text%}
+{% capture text %}
 
-Equipped with state-of-the-art equipment and testing facilities, the lab conducts cutting-edge experiments on hydrogen production. We focus on the development, testing and innovation of technologies and processes related to sustainable and renewable hydrogen sources, as well as the integration of digital technologies to optimize energy production and consumption.
+Our research encompasses a broad spectrum of activities, from the fundamental study of materials and electrochemical processes to the development and testing of new technologies. We focus on improving the performance and sustainability of EV batteries, developing bio-energy production methods from waste, and engineering green electrolytes that are safer and more efficient.
 
 {%
   include button.html
@@ -41,7 +41,7 @@ Equipped with state-of-the-art equipment and testing facilities, the lab conduct
 
 {%
   include feature.html
-  image="hydrogen.png"
+  image="https://www.empaneda.com/wp-content/uploads/2023/05/ElectrochimicaActa.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -49,7 +49,7 @@ Equipped with state-of-the-art equipment and testing facilities, the lab conduct
 
 {% capture text %}
 
-Our consistent collaborations with numerous industrial partners, spanning research and industrial projects alike, demonstrate our enduring commitment to innovation and impactful outcomes. These partnerships highlight our expertise, reliability, and shared dedication to advancing technology and sustainability.
+Collaborating with industry partners and research institutions worldwide, we are committed to translating our scientific discoveries into practical applications. Our partnerships facilitate the exchange of knowledge and resources, driving innovation and creating impactful solutions for sustainable energy challenges.
 
 {%
   include button.html
@@ -64,7 +64,7 @@ Our consistent collaborations with numerous industrial partners, spanning resear
 
 {%
   include feature.html
-  image="hydrogen4.png"
+  image="https://www.empaneda.com/wp-content/uploads/2023/05/ElectrochimicaActa.jpg"
   link="projects"
   title="Our Projects"
   flip=true
@@ -74,7 +74,7 @@ Our consistent collaborations with numerous industrial partners, spanning resear
 
 {% capture text %}
 
-We're a dedicated and diverse group of experts in renewable energy and digital optimization. With our wealth of experience and shared passion for innovation, we collaborate seamlessly to tackle complex challenges. Our mission is reshaping the energy landscape for a more sustainable, smarter world.
+Our team comprises experts in renewable energy, materials science, and digital technologies. Together, we are driven by a shared vision of creating a sustainable future through innovation and excellence in research. Join us in our mission to revolutionize the energy landscape.
 
 {%
   include button.html
@@ -89,7 +89,7 @@ We're a dedicated and diverse group of experts in renewable energy and digital o
 
 {%
   include feature.html
-  image="hydrogen3.jpg"
+  image="https://www.empaneda.com/wp-content/uploads/2023/05/ElectrochimicaActa.jpg"
   link="team"
   title="Our Team"
   text=text
