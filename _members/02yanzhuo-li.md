@@ -2,7 +2,7 @@
 name: Yanzhuo Li
 image: profile/yanzhuo-li.jpg
 role: undergrad
-description: MSc Student
+description: MS.c Student
 
 ---
 

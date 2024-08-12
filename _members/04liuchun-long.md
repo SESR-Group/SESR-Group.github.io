@@ -2,7 +2,7 @@
 name: Liuchun long
 image: profile/LCL.jpg
 role: undergrad
-description: MSc Student
+description: MS.c Student
 
 
 ---

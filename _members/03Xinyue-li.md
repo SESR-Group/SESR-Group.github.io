@@ -2,12 +2,10 @@
 name: Xinyue Li
 image: profile/XYL.jpg
 role: undergrad
-description: MSc Student
+description: MS.c Student
 
 
 links:
-  github: https://github.com/TSdreamer
-  home-page: https://haotian-ma.com
   email: xinyue.li.19@ucl.ac.uk
 ---
 

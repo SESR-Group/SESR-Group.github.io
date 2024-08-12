@@ -2,7 +2,7 @@
 name: Tao Shi
 image: 
 role: undergrad
-description: MSc Student
+description: MS.c Student
 
 ---
 

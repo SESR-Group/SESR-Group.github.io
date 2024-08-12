@@ -2,7 +2,7 @@
 name: Haotian Ma
 image: profile/HT.jpg
 role: phd
-description: Ph.D. Student
+description: Ph.D Student
 
 links:
   github: https://github.com/TSdreamer
