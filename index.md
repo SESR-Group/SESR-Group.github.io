@@ -3,9 +3,9 @@
 
 # SESR Group
 
-[Sustainable Energy Storage & Recycle (SESR) Group](https://SESR-Group.github.io) is a research center at University College London (UCL) led by Dr. Nikiforidis Georgios. The group is dedicated to creating sustainable energy storage materials and technologies, with a primary focus on three key areas: **EV Battery Recycling**, **Bio-energy Production**, and **Green Electrolyte Engineering**. Our goal is to advance the fundamental science and engineering principles that drive these fields, ultimately contributing to a sustainable energy future.
+[Sustainable Energy Storage & Recycle (SES&R) Group](https://SESR-Group.github.io) is a research center at University College London (UCL) led by Dr. Nikiforidis Georgios. The group is dedicated to creating sustainable energy storage materials and technologies, with a primary focus on three key areas: **EV Battery Recycling**, **Bio-energy Production**, and **Green Electrolyte Engineering**. Our goal is to advance the fundamental science and engineering principles that drive these fields, ultimately contributing to a sustainable energy future.
 
-Equipped with state-of-the-art facilities, SESR Group conducts groundbreaking research to develop innovative solutions that address critical challenges in energy storage and recycling. By leveraging advanced materials science, and artificial intelligence, we aim to enhance the efficiency, sustainability, and circularity of energy systems.
+Equipped with state-of-the-art facilities, SES&R Group conducts groundbreaking research to develop innovative solutions that address critical challenges in energy storage and recycling. By leveraging advanced materials science, and artificial intelligence, we aim to enhance the efficiency, sustainability, and circularity of energy systems.
 
 {%
   include button.html
@@ -64,7 +64,7 @@ Collaborating with industry partners and research institutions worldwide, we are
 
 {%
   include feature.html
-  image="https://www.empaneda.com/wp-content/uploads/2023/05/ElectrochimicaActa.jpg"
+  image="images/project.png"
   link="projects"
   title="Our Projects"
   flip=true
@@ -89,7 +89,7 @@ Our team comprises experts in renewable energy, materials science, and digital t
 
 {%
   include feature.html
-  image="https://ibb.co/hfQQTQk"
+  image="images/Group.jpg"
   link="team"
   title="Our Team"
   text=text

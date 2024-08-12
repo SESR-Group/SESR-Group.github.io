@@ -1,5 +1,5 @@
 ---
-name: Tao Shi
+name: Yao Shi
 image: 
 role: undergrad
 description: MS.c Student
