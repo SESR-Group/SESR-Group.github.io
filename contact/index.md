@@ -7,26 +7,26 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-For more details,please contact [Mr.Haotian Ma](https://github.com/TSdreamer) for more information.
+For more details,please contact [Dr.Georgios Nikiforidis](https://www.ucl.ac.uk/institute-for-materials-discovery/people/dr-georgios-nikiforidis)for more information.
 
 {%
   include button.html
-  type="email"
-  text="haotianteemo@outlook.com"
-  link="haotianteemo@outlook.com"
+  type="Email"
+  text="Georgios Nikiforidis"
+  link="georgios.nikiforidis@ucl.ac.uk"
 %}
 {%
   include button.html
-  type="phone"
-  text="(+44) 7404729404"
-  link="(+44) 7404729404"
+  type="Phone"
+  text="+44 (0)7529955956"
+  link="+44 (0)7529955956"
 %}
 {%
   include button.html
   type="address"
-  text="our address"
+  text="Our Address at UCL East"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps/place/University+of+Warwick/@52.3792557,-1.5640507,17z/data=!4m14!1m7!3m6!1s0x48774ac696d53ee5:0xaa928d75708b2b54!2sUniversity+of+Warwick!8m2!3d52.3792525!4d-1.5614704!16zL20vMGdsNmY!3m5!1s0x48774ac696d53ee5:0xaa928d75708b2b54!8m2!3d52.3792525!4d-1.5614704!16zL20vMGdsNmY?entry=ttu"
+  link="https://www.google.com/maps/place/UCL+East+-+One+Pool+Street/@51.5428653,-0.0208815,16z/data=!4m10!1m2!2m1!1sUCL+EAST!3m6!1s0x48761d66f90b73d1:0xcc0139dfc8c5e7c7!8m2!3d51.5382654!4d-0.0097532!15sCghVQ0wgRUFTVCIDiAEBkgEKdW5pdmVyc2l0eeABAA!16s%2Fg%2F11cnb5znhy?entry=ttu"
 %}
 
 {% include section.html %}

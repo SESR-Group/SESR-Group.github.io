@@ -6,7 +6,7 @@ nav:
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
-We are open for the industrial collaboration all over the world. Please contact [Dr.Georgios Nikiforids](https://www.linkedin.com/in/georgiosnikiforidis/) or [Mr.Haotian MA(Student)](https://www.haotian-ma.com) for more information.
+We are open for the industrial collaboration all over the world. Please contact [Dr.Georgios Nikiforids](https://www.linkedin.com/in/georgiosnikiforidis/) and [Mr.Haotian MA](https://www.haotian-ma.com) for more information.
 
 {% include tags.html tags="publication, resource, website" %}
 
