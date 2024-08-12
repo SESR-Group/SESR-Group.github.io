@@ -41,7 +41,7 @@ Our research encompasses a broad spectrum of activities, from the fundamental st
 
 {%
   include feature.html
-  image="images/publication.webpg"
+  image="images/publication.png"
   link="research"
   title="Our Research"
   text=text
