@@ -89,7 +89,7 @@ Our team comprises experts in renewable energy, materials science, and digital t
 
 {%
   include feature.html
-  image="https://www.empaneda.com/wp-content/uploads/2023/05/ElectrochimicaActa.jpg"
+  image="https://ibb.co/hfQQTQk"
   link="team"
   title="Our Team"
   text=text
