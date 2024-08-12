@@ -13,7 +13,7 @@ For more details,please contact [Dr.Georgios Nikiforidis](https://www.ucl.ac.uk/
   include button.html
   type="Email"
   text="Georgios Nikiforidis"
-  link="georgios.nikiforidis@ucl.ac.uk"
+  link="emailto:georgios.nikiforidis@ucl.ac.uk"
 %}
 {%
   include button.html
