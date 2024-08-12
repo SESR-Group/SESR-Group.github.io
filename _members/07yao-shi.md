@@ -2,7 +2,7 @@
 name: Yao Shi
 image: 
 role: undergrad
-description: MS.c Student
+description: M.Sc Student
 
 ---
 

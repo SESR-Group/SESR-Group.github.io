@@ -2,7 +2,7 @@
 name: Xinyue Li
 image: profile/XYL.jpg
 role: undergrad
-description: MS.c Student
+description: M.Sc Student
 
 
 links:

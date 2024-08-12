@@ -2,7 +2,7 @@
 name: Xiaomin Lin
 image: profile/LXM.jpg
 role: undergrad
-description: MS.c Student
+description: M.Sc Student
 
 ---
 

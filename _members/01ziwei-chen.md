@@ -2,7 +2,7 @@
 name: Ziwei Chen
 image: 
 role: undergrad
-description: MS.c Student
+description: M.Sc Student
 
 ---
 

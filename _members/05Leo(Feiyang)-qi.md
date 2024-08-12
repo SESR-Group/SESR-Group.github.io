@@ -2,7 +2,7 @@
 name: Leo(Feiyang) Qi
 image: profile/LQ.jpg
 role: undergrad
-description: MS.c Student
+description: M.Sc Student
 
 ---
 
