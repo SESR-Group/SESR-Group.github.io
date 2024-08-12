@@ -10,14 +10,14 @@ Equipped with state-of-the-art facilities, SES&R Group conducts groundbreaking r
 {%
   include button.html
   type="github"
-  text="Open Source Project"
-  link="https://github.com/UoWHydrogen"
+  text="Principle Investigator & Director"
+  link="https://www.linkedin.com/in/georgiosnikiforidis/"
 %}
 {%
   include button.html
   type="docs"
-  text="Main Executor"
-  link="https://github.com/TSdreamer"
+  text="Coding Executor"
+  link="https://Haotian-ma.com"
 %}
 
 {% include section.html %}
@@ -41,7 +41,7 @@ Our research encompasses a broad spectrum of activities, from the fundamental st
 
 {%
   include feature.html
-  image="https://www.empaneda.com/wp-content/uploads/2023/05/ElectrochimicaActa.jpg"
+  image="images/publication.webpg"
   link="research"
   title="Our Research"
   text=text
