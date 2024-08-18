@@ -10,4 +10,4 @@ links:
   email: Haotian-MA@outlook.com
 ---
 
-A Ph.D. candidate in Energy Engineering, with a focus on simulations.
+A Ph.D. candidate in Energy Science, with a focus on simulation engineering.
