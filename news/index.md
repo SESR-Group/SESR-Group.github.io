@@ -5,7 +5,7 @@ nav:
   tooltip: Achievements
 ---
 
-# {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
+# {% include icon.html icon="fa-solid fa-feather-pointed" %}News
 
 Welcome to the News section of our lab, your primary source for the latest developments and breakthroughs in sustainable energy solutions. Here, we share updates on our ongoing projects, significant research findings, and expert insights that drive innovation in energy sustainability. Stay informed with our regular updates and discover how we are contributing to a greener, more sustainable future.
 
@@ -17,4 +17,4 @@ Welcome to the News section of our lab, your primary source for the latest devel
 
 {% include search-info.html %}
 
-{% include list.html data="news" component="news-excerpt" %}
+{% include list.html data="news" component="post-excerpt" %}
