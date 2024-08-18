@@ -2,7 +2,7 @@
 name: Yanzhuo Li
 image: profile/yanzhuo-li.jpg
 role: undergrad
-description: M.Sc Student
+description: M.Sc Student(2023-2024)
 
 ---
 
