@@ -2,7 +2,7 @@
 name: Ziwei Chen
 image: 
 role: undergrad
-description: M.Sc Student (2023-2024)
+description: M.Sc Student
 
 
 ---
