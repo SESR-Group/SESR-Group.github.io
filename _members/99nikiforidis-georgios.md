@@ -14,7 +14,7 @@ links:
 ---
 
 
-**Expert in electrochemistry, with over 3 years of experience in lithium battery R&D in academia. Has a strong track record in leading research projects in energy storage and generating devices (electrolysis, biofuel cells, RBF, NaS, Li-ion, Na-ion, Mg-ion, etc.) and is an experienced lecturer.**
+Expert in electrochemistry, with over 3 years of experience in lithium battery R&D in academia. Has a strong track record in leading research projects in energy storage and generating devices (electrolysis, biofuel cells, RBF, NaS, Li-ion, Na-ion, Mg-ion, etc.) and is an experienced lecturer.
 
 **Achievements include:**
 1. 38 publications reaching an h-index of 19.

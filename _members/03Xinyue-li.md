@@ -2,10 +2,7 @@
 name: Xinyue Li
 image: profile/XYL.jpg
 role: undergrad
-description: M.Sc Student  
-(2023-2024)
-
-
+description: M.Sc Student(2023-2024)
 
 links:
   email: xinyue.li.19@ucl.ac.uk

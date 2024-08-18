@@ -2,12 +2,11 @@
 name: Ziwei Chen
 image: 
 role: undergrad
-description: M.Sc Student  
-(2023-2024)
+description: M.Sc Student(2023-2024)
 
 
 ---
 
-
 Hello, my name is Ziwei Chen. I completed my undergraduate degree in the Department of Chemistry at UCL. Currently, I am pursuing my master's degree at UCL's Institute of Materials Discovery, under the supervision of my advisor, Georgios Nikiforidis.
+
 Research: Currently, I am working on a project focused on the hydrometallurgical recycling of lithium-ion batteries. The process involves dissolving the cathode material in inorganic acids, followed by sequential chemical precipitation to extract various valuable metals from the cathode material.
