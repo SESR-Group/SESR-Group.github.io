@@ -5,9 +5,9 @@ nav:
   tooltip: Musings and miscellany
 ---
 
-# {% include icon.html icon="fa-solid fa-feather-pointed" %}Report
+# {% include icon.html icon="fa-solid fa-feather-pointed" %}News
 
-Here are the reports uploaded from the Ph.D. students in the Group.
+Welcome to the News section of our lab, your primary source for the latest developments and breakthroughs in sustainable energy solutions. Here, we share updates on our ongoing projects, significant research findings, and expert insights that drive innovation in energy sustainability. Stay informed with our regular updates and discover how we are contributing to a greener, more sustainable future.
 
 {% include section.html %}
 
