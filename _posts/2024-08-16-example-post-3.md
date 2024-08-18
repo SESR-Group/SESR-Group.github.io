@@ -1,5 +1,5 @@
 ---
-title: Example post 3
+title: Group Website Construction
 image: images/photo.jpg
 author: 99nikiforidis-georgios
 tags: electrochemistry
