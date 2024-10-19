@@ -1,6 +1,6 @@
 ---
 name: Sijin Liu
-image: profile/LSJ.jpg
+image: profile/LSJ2.jpg
 role: phd
 description: Ph.D Student
 
