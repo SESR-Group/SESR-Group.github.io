@@ -13,7 +13,8 @@ Our team plays a pivotal role in shaping the digital landscape of our organizati
 
 {% include section.html %}
 {% include list.html data="members" component="portrait" filters="role: pi" %}<p></p>
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
+{% include list.html data="members" component="portrait" filters="role: phd" %}<p></p>
+{% include list.html data="members" component="portrait" filters="role: undergrad" %}
 
 
 {% capture content %}
