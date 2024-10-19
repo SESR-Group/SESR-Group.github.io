@@ -1,8 +1,9 @@
 ---
 name: Yanzhuo Li
 image: profile/yanzhuo-li.jpg
-role: undergrad
-description: M.Sc Student
+role: phd
+description: Ph.D Student
+
 
 
 ---
