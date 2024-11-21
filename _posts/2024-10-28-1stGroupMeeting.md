@@ -2,7 +2,10 @@
 title: SESR 1st Group Meeting
 image: images/photo.jpg
 author: 99nikiforidis-georgios
-tags: Group Meeting
+  - "Group Meeting"
+  - "Team Announcement"
+  - "PhD Students"
+  - "Electrochemistry"
 ---
 
 The first SESR group meeting established the group structure, with monthly meetings and literature review presentations, and set 3-month goals for each student, focusing on training, certifications, and literature reviews. Key research tasks and experimental plans for all members were outlined, along with next steps such as LabCup introductions, ensuring training completion, and effective document management via the SESR channel.
@@ -27,7 +30,6 @@ The first SESR group meeting established the group structure, with monthly meeti
 
 ## Next Meeting and Literature Review Paper Presentation
 
----
 
 ## Items to be Discussed in the Next Meeting
 
