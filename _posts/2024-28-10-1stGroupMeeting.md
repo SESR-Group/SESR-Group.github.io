@@ -1,0 +1,107 @@
+---
+title: Arrival of PhD Students Haotian Ma, Ziwei Chen, and Sijin Liu
+image: images/photo.jpg
+author: 99nikiforidis-georgios
+tags: electrochemistry
+---
+# SESR 1st Group Meeting
+
+**Date:** 28-10-2024
+
+**Participants:** Haotian, Sijin, Yanzhuo, William (online), and Adam (online)
+
+---
+
+## Introduction of Students
+
+- Background and PhD topics
+- Directions
+
+## Discussion of Group Structure
+
+- **Group meetings** (monthly)
+- **Literature review presentations** (monthly)
+- **3-month aims for each student**
+  - Start with appropriate training, certificates, and literature review
+  - Set the tone for next year
+
+## Next Meeting and Literature Review Paper Presentation
+
+---
+
+## Items to be Discussed in the Next Meeting
+
+- **LabCup** – students should be introduced
+- Have all the students finished the training?
+- Use of the **SESR Channel** (not the chat) for storing and keeping up-to-date documents and budgets
+
+---
+
+### **Sijin**
+
+1. **Tiontech plots on Origin** – resistance values
+   - Finalize by last week of November
+   - Send report
+2. **LTO-Li paper**
+   - Progress update?
+3. **Zn cells**
+   - Any ideas?
+   - Literature review (word document provided)
+4. **Na Solid State Battery**
+   - Plan for consumables, etc.
+5. **DSC**
+   - Risk assessment
+   - Is the manual printed and placed with the equipment?
+6. **BET and Raman training**
+
+---
+
+### **William**
+
+- Review paper progress
+- Start recycling experiments (inorganic recycling – find waste treatment process as well)
+- Meet with 2nd supervisor
+- **Flame Photometer**
+  - Finish installation and risk assessments
+- **BET and Raman training**
+- Analyze data from Ivium cycler (4 e-vapes)
+
+---
+
+### **Haotian**
+
+- **Chapter 3**
+  - Where is the revised version?
+- **Chapter 3 Experimental**
+  - Where is the experimental plan?
+  - Consumables and what is needed?
+- **Chapter 4**
+  - Where is the revised version?
+
+---
+
+### **Adam**
+
+- **Microbial Fuel Cell – Zinc Cerium Redox Flow Cell**
+  - Read literature to determine direction
+
+---
+
+### **Yanzhuo**
+
+- **Review paper**
+  - Progress update
+- Plan for arrival (consumables, etc.)
+- **Saira**
+- Haotian simulation?
+- Revision of the draft – to finish George
+- **Experiments to do**
+  - Raman spectroscopy
+  - BET (Prospero student – William will follow and shadow)
+
+---
+
+# SESR 2nd Group Meeting
+
+**Date:** 25-11-2024
+
