@@ -2,14 +2,15 @@
 title: SESR 1st Group Meeting
 image: images/photo.jpg
 author: 99nikiforidis-georgios
-tags: electrochemistry
+tags: Group Meeting
 ---
 
+The first SESR group meeting established the group structure, with monthly meetings and literature review presentations, and set 3-month goals for each student, focusing on training, certifications, and literature reviews. Key research tasks and experimental plans for all members were outlined, along with next steps such as LabCup introductions, ensuring training completion, and effective document management via the SESR channel.
+
+---
 **Date:** 28-10-2024
 
 **Participants:** Haotian, Sijin, Yanzhuo, William (online), and Adam (online)
-
----
 
 ## Introduction of Students
 
@@ -69,12 +70,12 @@ tags: electrochemistry
 
 ### **Haotian**
 
-- **Chapter 3**
+- **Chapter 4**
   - Where is the revised version?
-- **Chapter 3 Experimental**
+- **Chapter 4 Experimental**
   - Where is the experimental plan?
   - Consumables and what is needed?
-- **Chapter 4**
+- **Chapter 5**
   - Where is the revised version?
 
 ---
