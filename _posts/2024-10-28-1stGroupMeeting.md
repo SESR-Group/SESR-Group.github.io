@@ -1,10 +1,9 @@
 ---
-title: Arrival of PhD Students Haotian Ma, Ziwei Chen, and Sijin Liu
+title: SESR 1st Group Meeting
 image: images/photo.jpg
 author: 99nikiforidis-georgios
 tags: electrochemistry
 ---
-# SESR 1st Group Meeting
 
 **Date:** 28-10-2024
 
