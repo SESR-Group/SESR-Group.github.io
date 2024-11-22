@@ -1,6 +1,6 @@
 ---
 name: William Chen
-image: 
+image: profile/CW.jpg
 role: phd
 description: Ph.D Student
 
