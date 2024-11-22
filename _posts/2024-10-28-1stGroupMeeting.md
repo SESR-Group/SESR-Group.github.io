@@ -1,7 +1,7 @@
 ---
 title: SESR 1st Group Meeting
 image: images/photo.jpg
-author: 99nikiforidis-georgioss
+author: 99nikiforidis-georgios
 tags: 
   - "Group Meeting"
   - "Team Announcement"
