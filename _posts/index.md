@@ -2,7 +2,7 @@
 title: Report
 nav:
   order: 4
-  tooltip: Musings and miscellany
+  tooltip: latest developments
 ---
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}News
