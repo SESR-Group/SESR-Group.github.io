@@ -81,6 +81,12 @@ The first SESR group meeting established the group structure, with monthly meeti
 - **Chapter 5**
   - Where is the revised version?
 
+- **Answer* : 
+The revised versions of Chapter 4 and Chapter 5 are in progress, incorporating the feedback from our last discussion. I plan to submit both by mid-December. Since the experimental side is not the primary focus, the experimental plan for Chapter 4 and a list of required consumables, is being finalized and will be sent by Christmas.
+
+To ensure consistent progress and timely updates, I would like to propose setting up regular meetings (e.g., biweekly) to review key milestones and address any questions. The group meeting could serve as an opportunity for everyone to catch up and align on shared tasks and objectives.
+
+
 ---
 
 ### **Adam**
