@@ -11,7 +11,7 @@ Equipped with state-of-the-art facilities, SES&R Group conducts groundbreaking r
   include button.html
   type="github"
   text="Principle Investigator & Director"
-  link="https://www.linkedin.com/in/georgiosnikiforidis/"
+  link="https://profiles.ucl.ac.uk/87959"
 %}
 {%
   include button.html
