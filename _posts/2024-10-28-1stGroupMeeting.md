@@ -81,11 +81,10 @@ The first SESR group meeting established the group structure, with monthly meeti
 - **Chapter 5**
   - Where is the revised version?
 
-- **Answer**
--  I am currently revising Chapters 4 and 5 based on the feedback from our previous discussion and aim to complete and submit both chapters by mid-December. As the experimental component is not the primary focus, I am finalizing the experimental plan for Chapter 4 along with a list of required consumables, which will be shared by Christmas.
+**Answer**
+  -Chapters 4 and 5 are currently being revised based on feedback from the previous discussion, with a target to complete and submit both chapters by mid-December. While the experimental component is not the primary focus, the experimental plan for Chapter 4 is being finalized, along with a list of required consumables, which will be shared by Christmas.
 
-- To maintain steady progress and ensure timely updates, I propose setting up regular individual meetings for each PhD student (e.g., biweekly) to review key milestones and address any questions. Additionally, the monthly group meeting could be used as a platform for everyone to reconnect, align on shared tasks, and discuss broader objectives.
-
+  -To ensure steady progress and timely updates, it is proposed to establish regular individual meetings for each PhD student, such as biweekly sessions, to review key milestones and address any questions. Monthly group meetings can serve as a platform for reconnection, alignment on shared tasks, and discussions on broader objectives.
 
 ---
 
