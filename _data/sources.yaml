@@ -1,0 +1,730 @@
+- id: doi:10.1038/s41563-020-0601-5
+  title: Biofuel powered glucose detection in bodily fluids with an n-type conjugated polymer
+  authors:
+  - D Ohayon
+  - G Nikiforidis
+  - A Savva
+  - A Giugni
+  - S Wustoni
+  - T Palanisamy
+  publisher: Nature materials
+  date: '2019-12-16'
+  link: https://www.nature.com/articles/s41563-019-0556-4
+  type: paper
+  description: Integration of an n-type conjugated polymer with a redox enzyme for glucose detection and power generation. The sensor, an enzyme-coupled organic electrochemical transistor, shows a detection range of six orders of magnitude. This polymer is also used in an enzymatic fuel cell to convert glucose and oxygen into electrical power.
+  image: https://media.springernature.com/w440/springer-static/cover-hires/journal/41563/18/12
+  tags:
+  - Biofuels
+  - Glucose Detection
+  repo: https://www.nature.com/articles/s41563-019-0556-4
+
+- id: doi:10.1002/cplu.201402066
+  title: The development of Zn–Ce hybrid redox flow batteries for energy storage and their continuing challenges
+  authors:
+  - FC Walsh
+  - C Ponce de Léon
+  - L Berlouis
+  - G Nikiforidis
+  publisher: ChemPlusChem
+  date: '2014-05-27'
+  link: https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cplu.201402066
+  type: paper
+  description: Exploration of platinum-based NOx storage and reduction (NSR) catalysts containing transition metals (Mn, Fe, Co) on alumina–ceria–zirconia support. PtCo/Ba/ACZ shows higher NOx storage capacity than 1.0 wt % Pt/Ba/ACZ, allowing Pt replacement in NSR catalysts.
+  image: https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/b6f45c97-4acb-4b72-b74c-dfda4aaa6afb/mcontent.jpg
+  tags:
+  - Energy Storage
+  - Redox Flow Batteries
+  repo: https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cplu.201402066
+
+- id: doi:10.1038/s41467-020-16817-3
+  title: Water stable molecular n-doping produces organic electrochemical transistors with high transconductance and record stability
+  authors:
+  - AF Paterson
+  - A Savva
+  - S Wustoni
+  - L Tsetseris
+  - BD Paulsen
+  - H Faber
+  publisher: Nature communications
+  date: '2020-06-12'
+  link: https://www.nature.com/articles/s41467-020-16648-0
+  type: paper
+  description: Demonstration of water-stable n-doping in electron transporting organic electrochemical transistors. The doping enhances transconductance, channel capacitance, and mobility, with improved operational and shelf-life stability.
+  image: https://jaspershen.github.io/journal_referee/nature_communications/featured.png
+  tags:
+  - Organic Electronics
+  - Electrochemical Transistors
+  repo: https://www.nature.com/articles/s41467-020-16648-0
+
+- id: doi:10.1002/adfm.202010165
+  title: Mixed conduction in an n‐type organic semiconductor in the absence of hydrophilic side‐chains
+  authors:
+  - J Surgailis
+  - A Savva
+  - V Druet
+  - BD Paulsen
+  - R Wu
+  - A Hamidi‐Sakr
+  publisher: Advanced Functional Materials
+  date: '2021-03-18'
+  link: https://onlinelibrary.wiley.com/doi/10.1002/adfm.202010165
+  type: paper
+  description: Study showing that the ladder-type, side-chain-free polymer BBL outperforms the donor-acceptor copolymer P-90 in organic electrochemical transistors, offering better ion-to-electron coupling and higher mobility.
+  image: https://onlinelibrary.wiley.com/cms/asset/e897ec67-84dd-4769-b3be-87d5cfcd78d3/adfm202170145-gra-0001-m.jpg
+  tags:
+  - Organic Semiconductors
+  - Mixed Conduction
+  repo: https://onlinelibrary.wiley.com/doi/10.1002/adfm.202010165
+
+- id: doi:10.1039/C8RA10432H
+  title: High and intermediate temperature sodium–sulfur batteries for energy storage_development, challenges and perspectives
+  authors:
+  - G Nikiforidis
+  - MCM Van de Sanden
+  - MN Tsampas
+  publisher: RSC advances
+  date: '2019-02-04'
+  link: https://pubs.rsc.org/en/content/articlehtml/2017/sc/c8ra08658c
+  type: paper
+  description: Review of high and intermediate temperature sodium-sulfur (NaS) batteries, discussing key components, electrochemical reactions, and technical challenges, with a focus on improving energy density and safety.
+  image: https://pubs.rsc.org/image/article/2019/RA/c8ra08658c/c8ra08658c-f1_hi-res.gif
+  tags:
+  - Sodium–Sulfur Batteries
+  - Energy Storage
+  repo: https://pubs.rsc.org/en/content/articlehtml/2017/sc/c8ra08658c
+
+- id: doi:10.1016/j.jpowsour.2013.09.058
+  title: Impact of electrolyte composition on the performance of the zinc–cerium redox flow battery system
+  authors:
+  - G Nikiforidis
+  - L Berlouis
+  - D Hall
+  - D Hodgson
+  publisher: Journal of power sources
+  date: '2013-04-02'
+  link: https://www.sciencedirect.com/science/article/pii/S0378775313010446
+  type: paper
+  description: Study on the zinc–cerium redox flow battery using carbon polymer composite materials. Examines electrolyte composition's role in maintaining high coulombic efficiencies and achieving energy efficiencies over 60% at various temperatures.
+  image: https://nfmlab.nankai.edu.cn/_upload/article/images/76/51/a984351d4c1681c1576dbe08047d/13a2924f-285a-47f0-9744-be6448c07bdb.jpg
+  tags:
+  - Electrolyte
+  - Redox Flow Batteries
+  repo: https://www.sciencedirect.com/science/article/pii/S0378775313010446
+
+- id: doi:10.1002/adma.201902291
+  title: On the role of contact resistance and electrode modification in organic electrochemical transistors
+  authors:
+  - AF Paterson
+  - H Faber
+  - A Savva
+  - G Nikiforidis
+  - M Gedda
+  - TC Hidalgo
+  publisher: Advanced Materials
+  date: '2019-07-25'
+  link: https://onlinelibrary.wiley.com/doi/10.1002/adma.201902291
+  type: paper
+  description: Investigation into contact resistance in n-type organic electrochemical transistors, highlighting the role of source/drain electrode treatment in improving device performance.
+  image: https://onlinelibrary.wiley.com/cms/asset/3bcb1b99-7ec9-4434-b50c-bc1659e1f805/adma201970260-gra-0001-m.jpg
+  tags:
+  - Contact Resistance
+  - Electrochemical Transistors
+  repo: https://onlinelibrary.wiley.com/doi/10.1002/adma.201902291
+
+- id: doi:10.1016/j.jpowsour.2012.10.008
+  title: Evaluation of carbon composite materials for the negative electrode in the zinc–cerium redox flow cell
+  authors:
+  - G Nikiforidis
+  - L Berlouis
+  - D Hall
+  - D Hodgson
+  publisher: Journal of Power Sources
+  date: '2012-05-15'
+  link: https://www.sciencedirect.com/science/article/pii/S0378775311001145
+  type: paper
+  description: Investigation of three carbon composites as substrates for the negative electrode in the zinc–cerium redox flow cell, examining their performance under various conditions.
+  image: https://ars.els-cdn.com/content/image/X03787753.jpg
+  tags:
+  - Carbon Composite Materials
+  - Redox Flow Cells
+  repo: https://www.sciencedirect.com/science/article/pii/S0378775311001145
+
+- id: doi:10.1021/acsenergylett.6b00359
+  title: High energy efficiency and stability for photoassisted aqueous lithium–iodine redox batteries
+  authors:
+  - G Nikiforidis
+  - K Tajima
+  - HR Byon
+  publisher: ACS Energy Letters
+  date: '2016-09-21'
+  link: https://pubs.acs.org/doi/10.1021/acsenergylett.6b00359
+  type: paper
+  description: Demonstration of photoassisted lithium–iodine (Li–I2) redox cells with hematite photoelectrodes, achieving high energy efficiency (∼95.4%) and stability over 600 hours of cycling.
+  image: https://pubs.acs.org/cms/10.1021/aelccp.2016.1.issue-4/asset/158da484-1415-da48-d141-8da484d14158/aelccp.2016.1.issue-4.largecover.jpg
+  tags:
+  - Lithium–Iodine Batteries
+  - Energy Efficiency
+  repo: https://pubs.acs.org/doi/10.1021/acsenergylett.6b00359
+
+- id: doi:10.1016/j.apenergy.2016.05.134
+  title: Vanadium microfluidic fuel cell with novel multi-layer flow-through porous electrodes-Model, simulations and experiments
+  authors:
+  - L Li
+  - G Nikiforidis
+  - MKH Leung
+  - WA Daoud
+  publisher: Applied energy
+  date: '2016-09-01'
+  link: https://www.sciencedirect.com/science/article/pii/S0306261916306699
+  type: paper
+  description: Study of a vanadium microfluidic fuel cell using multi-layer flow-through porous carbon paper electrodes, highlighting the balance between performance and cost in cell design.
+  image: https://th.bing.com/th/id/R.166ebf131552ab8e3e14ab0c7a7fffed?rik=1YcP%2bIFmmreXHg&riu=http%3a%2f%2fapplied-energy.org%2frem2018%2fpic%2fpaper.png&ehk=JNzkZTLL8TpIwRRg7Vs4y%2fhqFSn08MR0LD%2fPe0naqyY%3d&risl=&pid=ImgRaw&r=0
+  tags:
+  - Microfluidic Fuel Cells
+  - Vanadium
+  repo: https://www.sciencedirect.com/science/article/pii/S0306261916306699
+
+- id: doi:10.1002/aenm.201702897
+  title: Designing Redox‐Stable Cobalt–Polypyridyl Complexes for Redox Flow Batteries_Spin‐Crossover Delocalizes Excess Charge
+  authors:
+  - C Yang
+  - G Nikiforidis
+  - JY Park
+  - J Choi
+  - Y Luo
+  - L Zhang
+  - SC Wang
+  publisher: Advanced Energy Materials
+  date: '2018-05-15'
+  link: https://onlinelibrary.wiley.com/doi/10.1002/aenm.201702897
+  type: paper
+  description: Study on enhancing the stability of redox-active cobalt–polypyridyl complexes for redox flow batteries using spin-crossover and chelation effects. Prototype Co-complexes showed stable cycling performance over 600 cycles.
+  image: https://onlinelibrary.wiley.com/cms/asset/f235a4d7-30b2-4008-8362-d86494ecf482/aenm.v8.14.cover.jpg
+  tags:
+  - Redox Flow Batteries
+  - Cobalt–Polypyridyl Complexes
+  repo: https://onlinelibrary.wiley.com/doi/10.1002/aenm.201702897
+
+- id: doi:10.1016/j.electacta.2014.01.125
+  title: Effect of mixed acid media on the positive side of the hybrid zinc-cerium redox flow battery
+  authors:
+  - G Nikiforidis
+  - WA Daoud
+  publisher: Electrochimica Acta
+  date: '2014-06-02'
+  link: https://www.sciencedirect.com/science/article/pii/S0013468614013589
+  type: paper
+  description: Investigation of the Ce3+/4+ reaction in mixed acid electrolytes, showing enhanced reversibility and kinetics with the addition of hydrochloric, nitric, and sulfuric acid to methanesulfonic acid.
+  image: https://www.empaneda.com/wp-content/uploads/2023/05/ElectrochimicaActa.jpg
+  tags:
+  - Mixed Acid Media
+  - Redox Flow Batteries
+  repo: https://www.sciencedirect.com/science/article/pii/S0013468614013589
+
+- id: doi:10.1016/j.electacta.2013.11.078
+  title: An electrochemical study on the positive electrode side of the zinc–cerium hybrid redox flow battery
+  authors:
+  - G Nikiforidis
+  - L Berlouis
+  - D Hall
+  - D Hodgson
+  publisher: Electrochimica Acta
+  date: '2013-10-24'
+  link: https://www.sciencedirect.com/science/article/pii/S0013468613018434
+  type: paper
+  description: Study on the Ce3+/4+ redox reaction in methanesulfonic acid on various electrode substrates, showing improved kinetics at elevated temperatures and identifying Pt–Ir coatings as the most suitable for the positive electrode.
+  image: https://www.empaneda.com/wp-content/uploads/2023/05/ElectrochimicaActa.jpg
+  tags:
+  - Positive Electrode
+  - Redox Flow Batteries
+  repo: https://www.sciencedirect.com/science/article/pii/S0013468613018434
+
+- id: doi:10.1016/j.electacta.2013.09.054
+  title: A study of different carbon composite materials for the negative half-cell reaction of the zinc cerium hybrid redox flow cell
+  authors:
+  - G Nikiforidis
+  - L Berlouis
+  - D Hall
+  - D Hodgson
+  publisher: Electrochimica Acta
+  date: '2013-06-14'
+  link: https://www.sciencedirect.com/science/article/pii/S0013468613018239
+  type: paper
+  description: Evaluation of carbon composites for the negative electrode in the zinc–cerium redox flow cell, highlighting high coulombic efficiencies and robust performance over 250 cycles.
+  image: https://www.empaneda.com/wp-content/uploads/2023/05/ElectrochimicaActa.jpg
+  tags:
+  - Carbon Composite Materials
+  - Redox Flow Cells
+  repo: https://www.sciencedirect.com/science/article/pii/S0013468613018239
+
+- id: doi:10.1016/j.electacta.2014.01.079
+  title: Charge/discharge cycles on Pt and Pt-Ir based electrodes for the positive side of the Zinc-Cerium hybrid redox flow battery
+  authors:
+  - G Nikiforidis
+  - L Berlouis
+  - D Hall
+  - D Hodgson
+  publisher: Electrochimica Acta
+  date: '2014-04-10'
+  link: https://www.sciencedirect.com/science/article/pii/S0013468614001431
+  type: paper
+  description: Study on the charge/discharge behavior of the Ce3+/Ce4+ redox couple in methanesulfonic acid on Pt and Pt-Ir coated electrodes, highlighting high voltage efficiencies and stability at elevated temperatures.
+  image: https://www.empaneda.com/wp-content/uploads/2023/05/ElectrochimicaActa.jpg
+  tags:
+  - Pt and Pt-Ir Electrodes
+  - Redox Flow Batteries
+  repo: https://www.sciencedirect.com/science/article/pii/S0013468614001431
+
+- id: doi:10.1021/acsaem.0c01572
+  title: A self-standing organic supercapacitor to power bioelectronic devices
+  authors:
+  - G Nikiforidis
+  - S Wustoni
+  - D Ohayon
+  - V Druet
+  - S Inal
+  publisher: ACS Applied Energy Materials
+  date: '2020-07-27'
+  link: https://pubs.acs.org/doi/full/10.1021/acsaem.0c01299
+  type: paper
+  description: Development of a lightweight, biocompatible supercapacitor made of conducting polymer electrodes and an agarose hydrogel, demonstrating high energy and power density, stability, and flexibility.
+  image: https://jasondrees.com/wp-content/uploads/2021/03/acs-aem-cover-scaled.jpg
+  tags:
+  - Organic Supercapacitors
+  - Bioelectronic Devices
+  repo: https://pubs.acs.org/doi/full/10.1021/acsaem.0c01299
+
+- id: doi:10.1021/acs.jpclett.1c00125
+  title: Low-concentrated lithium hexafluorophosphate ternary-based electrolyte for a reliable and safe NMC/Graphite Lithium-ion battery
+  authors:
+  - G Nikiforidis
+  - M Raghibi
+  - A Sayegh
+  - M Anouti
+  publisher: The Journal of Physical Chemistry Letters
+  date: '2021-02-16'
+  link: https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.0c03736
+  type: paper
+  description: Investigation of a low-concentration LiPF6 electrolyte in a ternary solvent mixture for NMC111/graphite pouch cells, showing high specific capacity, high Coulombic efficiencies, and excellent performance over 700 cycles.
+  image: https://pubs.acs.org/cms/10.1021/jpclcd.2021.12.issue-7/asset/17f07519-bf17-0751-bbf1-f07519bbf17f/jpclcd.2021.12.issue-7.largecover.jpg
+  tags:
+  - Lithium-ion Batteries
+  - Electrolytes
+  repo: https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.0c03736
+
+- id: doi:10.1063/5.0045378
+  title: Amide-based deep eutectic solvents containing LiFSI and NaFSI salts as superionic electrolytes for supercapacitor applications
+  authors:
+  - S Amara
+  - W Zaidi
+  - L Timperman
+  - G Nikiforidis
+  - M Anouti
+  publisher: The Journal of Chemical Physics
+  date: '2021-04-26'
+  link: https://pubs.aip.org/aip/jcp/article-abstract/154/16/164708/317426/Amide-based-deep-eutectic-solvents-containing?redirectedFrom=fulltext
+  type: paper
+  description: Study of deep eutectic solvents based on LiFSI and NaFSI with N-methylacetamide and formamide as electrolytes for activated carbon supercapacitors, showing high specific capacitance and good stability.
+  image: https://aipp.silverchair-cdn.com/aipp/content_public/journal/jcp/issue/154/16/2/cover.jpeg?Expires=1725047501&Signature=3v2GlFYtNBShoADmwhWT6eWH6PKINsnLAJWEfnuv3lJVe3px6GV0Fbj9v2U6wgvZoU94FngiuAdDC8xtr8i-jZ1PCs7cQtPAg2OsPm9al0ycSZcBNUYA~lGxGdC1V7fjgmQfeXuU29noA7jlBhYa2MWIixhdsfoW6F-QMfN68VOOiBC~ZckD~h7pemWE1fcjN5XTbYYMzlFNTeSE4mHevAIZu3fR6G1BTZ7Mh3DkCX4-B4quA8c5QB3B5s-VaCH6pJQIXHsv7OBRWjHq6YW85f4Zgk5VCeiu5G0OLP1W9pZ8GzRAZ6FqaoH-yYnr~oTw0waMw8mCqh2a98Ajcze-sg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  tags:
+  - Electrolytes
+  - Supercapacitors
+  repo: https://pubs.aip.org/aip/jcp/article-abstract/154/16/164708/317426/Amide-based-deep-eutectic-solvents-containing?redirectedFrom=fulltext
+
+- id: doi:10.1016/j.electacta.2014.01.103
+  title: Factors affecting the performance of the Zn-Ce redox flow battery
+  authors:
+  - G Nikiforidis
+  - R Cartwright
+  - D Hodgson
+  - D Hall
+  - L Berlouis
+  publisher: Electrochimica Acta
+  date: '2014-05-04'
+  link: https://www.sciencedirect.com/science/article/pii/S001346861400930X
+  type: paper
+  description: Investigation of current density effects on zinc electrodeposition in a methanesulfonic acid electrolyte, highlighting factors for maintaining high coulombic and cell potential efficiencies in Zn-Ce redox flow batteries.
+  image: https://www.empaneda.com/wp-content/uploads/2023/05/ElectrochimicaActa.jpg
+  tags:
+  - Redox Flow Batteries
+  - Performance Factors
+  repo: https://www.sciencedirect.com/science/article/pii/S001346861400930X
+
+- id: doi:10.1149/2.0081902jes
+  title: An electrochemical study on the cathode of the intermediate temperature tubular sodium-sulfur (NaS) battery
+  authors:
+  - G Nikiforidis
+  - GJ Jongerden
+  - EF Jongerden
+  - MCM Van De Sanden
+  - MN Tsampas
+  publisher: Journal of The Electrochemical Society
+  date: '2019-01-12'
+  link: https://iopscience.iop.org/article/10.1149/2.0491902jes/meta
+  type: paper
+  description: Study of the intermediate temperature sodium-sulfur (NaS) battery cathode, demonstrating robust long-term performance with a volumetric energy density of 83 Wh L−1 and a tenfold volume scale-up.
+  image: https://www.electrochem.org/wp-content/uploads/2021/12/ECS_JES_RGB_fullsize-1504x2048.jpg
+  tags:
+  - Sodium-Sulfur Batteries
+  - Cathode Electrochemistry
+  repo: https://iopscience.iop.org/article/10.1149/2.0491902jes/meta
+
+- id: doi:10.1016/j.electacta.2014.01.103
+  title: Indium modified graphite electrodes on highly zinc containing methanesulfonate electrolyte for zinc-cerium redox flow battery
+  authors:
+  - G Nikiforidis
+  - WA Daoud
+  publisher: Electrochimica Acta
+  date: '2015-03-17'
+  link: https://www.sciencedirect.com/science/article/pii/S001346861500715X
+  type: paper
+  description: Study of indium modified graphite electrodes for the zinc-cerium redox flow battery, showing improved kinetics and higher coulombic efficiencies, with good durability over 340 cycles.
+  image: https://www.empaneda.com/wp-content/uploads/2023/05/ElectrochimicaActa.jpg
+  tags:
+  - Graphite Electrodes
+  - Zinc-Cerium Redox Flow Batteries
+  repo: https://www.sciencedirect.com/science/article/pii/S001346861500715X
+
+- id: doi:10.1016/j.electacta.2014.01.079
+  title: Electrochemical behavior of carbon paper on cerium methanesulfonate electrolytes for zinc-cerium flow battery
+  authors:
+  - G Nikiforidis
+  - Y Xiang
+  - WA Daoud
+  publisher: Electrochimica Acta
+  date: '2014-11-24'
+  link: https://www.sciencedirect.com/science/article/pii/S0013468614023536
+  type: paper
+  description: Investigation of the Ce(III)/(IV) reaction in cerium methanesulfonate electrolytes on pristine and metal-modified carbon paper electrodes, showing robust performance and improved kinetics at elevated temperatures.
+  image: https://www.empaneda.com/wp-content/uploads/2023/05/ElectrochimicaActa.jpg
+  tags:
+  - Carbon Paper
+  - Zinc-Cerium Flow Batteries
+  repo: https://www.sciencedirect.com/science/article/pii/S0013468614023536
+
+
+- id: doi:10.1002/mabi.202000215
+  title: Benchmarking the Performance of Electropolymerized Poly (3, 4‐ethylenedioxythiophene) Electrodes for Neural Interfacing
+  authors:
+  - G Nikiforidis
+  - S Wustoni
+  - C Routier
+  - A Hama
+  - A Koklu
+  - A Saleh
+  - N Steiner
+  publisher: Macromolecular Bioscience
+  date: '2020-11-16'
+  link: https://onlinelibrary.wiley.com/doi/10.1002/mabi.202000215
+  type: paper
+  description: Study of copolymers based on 3,4-ethylenedioxythiophene (EDOT) for neural interfacing, highlighting high specific capacitance and stability, with insights on additives and dopants effects.
+  image: https://onlinelibrary.wiley.com/cms/asset/38bef7c2-e96c-4010-852d-cb1f51bd3ca9/mabi202070023-gra-0001-m.jpg
+  tags:
+  - Neural Interfacing
+  - Poly(3,4-ethylenedioxythiophene) Electrodes
+  repo: https://onlinelibrary.wiley.com/doi/10.1002/mabi.202000215
+
+- id: doi:10.1149/2.0011506jes
+  title: Thermally modified graphite electrodes for the positive side of the zinc-cerium redox flow battery
+  authors:
+  - G Nikiforidis
+  - WA Daoud
+  publisher: Journal of the Electrochemical Society
+  date: '2015-06-01'
+  link: https://iopscience.iop.org/article/10.1149/2.0041506jes/meta
+  type: paper
+  description: Thermal modification of graphite electrodes enhances performance and stability for the Ce(III)/(IV) reaction in the zinc-cerium redox flow battery, showing improved kinetics and low charge transfer resistance.
+  image: https://cms.iopscience.org/7207258b-d3d0-11e9-b831-037d18333577/journal_cover?guest=true
+  tags:
+  - Graphite Electrodes
+  - Zinc-Cerium Redox Flow Batteries
+  repo: https://iopscience.iop.org/article/10.1149/2.0041506jes/meta
+
+- id: doi:10.1016/j.jechem.2021.02.012
+  title: Anion effect on Li/Na/K hybrid electrolytes for Graphite//NCA (LiNi0.8Co0.15Al0.05O2) Li-ion batteries
+  authors:
+  - A Jrondi
+  - G Nikiforidis
+  - M Anouti
+  publisher: Journal of Energy Chemistry
+  date: '2022-01-01'
+  link: https://www.sciencedirect.com/science/article/pii/S2095495621002837
+  type: paper
+  description: Study of hybrid electrolytes containing Li, Na, or K salts, showing improved performance on NCA and graphite electrodes compared to standard electrolytes, promising for lithium-efficient Li-ion batteries.
+  image: https://www.sondii.com/data/publish/1587543958378547.jpg
+  tags:
+  - Li-ion Batteries
+  - Electrolytes
+  repo: https://www.sciencedirect.com/science/article/pii/S2095495621002837
+
+- id: doi:10.1063/5.0036723
+  title: Hydroxymethyl PEDOT microstructure-based electrodes for high-performance supercapacitors
+  authors:
+  - S Wustoni
+  - G Nikiforidis
+  - S Inal
+  - YS Indartono
+  - V Suendo
+  - B Yuliarto
+  publisher: APL Materials
+  date: '2022-06-01'
+  link: https://pubs.aip.org/aip/apm/article/10/6/061101/2834971
+  type: paper
+  description: Study on hydroxymethyl PEDOT (PEDOTOH) electrodes for supercapacitors, showing superior performance in specific capacitance and stability, highlighting the impact of solvents and electropolymerization modes.
+  image: https://www.researchgate.net/publication/370990782/figure/fig1/AS:11431281219384738@1706018538092/The-three-main-topical-categories-of-APL-Materials-and-the-range-of-topics-we-aim-to.jpg
+  tags:
+  - Supercapacitors
+  - PEDOT Electrodes
+  repo: https://pubs.aip.org/aip/apm/article/10/6/061101/2834971
+
+- id: doi:10.1007/s10800-021-01551-w
+  title: Phosphonium ionic liquid-based electrolyte for high voltage Li-ion batteries-Effect of ionic liquid ratio
+  authors:
+  - Y Bencherifi
+  - B Larhrib
+  - A Sayegh
+  - G Nikiforidis
+  - M Anouti
+  publisher: Journal of Applied Electrochemistry
+  date: '2021-07-30'
+  link: https://link.springer.com/article/10.1007/s10800-021-01605-6
+  type: paper
+  description: Study on a nonflammable phosphonium-based electrolyte for Li-ion batteries, showing high performance and stability with a focus on the impact of ionic liquid ratio.
+  image: https://media.springernature.com/w316/springer-static/cover-hires/journal/10800?as=webp
+  tags:
+  - Li-ion Batteries
+  - Electrolytes
+  repo: https://link.springer.com/article/10.1007/s10800-021-01605-6
+
+- id: doi:10.1002/batt.202100289
+  title: Less is More-Ultra Low LiPF6 Concentrated Electrolyte for Efficient Li‐Ion Batteries
+  authors:
+  - G Nikiforidis
+  - M Anouti
+  publisher: Batteries & Supercaps
+  date: '2021-08-03'
+  link: https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/batt.202100132
+  type: paper
+  description: Study on ultra-low concentrated lithium salt electrolyte for Li-ion batteries, demonstrating solid performance, modest decomposition, and superior behavior compared to mainstream electrolytes.
+  image: https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/9c4b29fe-b721-4d79-a7b7-084cdedd5ed3/batt202100297-toc-0001-m.jpg
+  tags:
+  - Li-ion Batteries
+  - Electrolytes
+  repo: hhttps://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/batt.202100132
+
+- id: doi:10.1002/cphc.202200224
+  title: Non‐Flammable Sodium Asymmetric Imide Salt‐Based Deep Eutectic Solvent for Supercapacitor Applications
+  authors:
+  - J Chidiac
+  - G Nikiforidis
+  - L Timperman
+  - M Anouti
+  publisher: ChemPhysChem
+  date: '2022-06-13'
+  link: https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cphc.202200224
+  type: paper
+  description: Study of non-flammable deep eutectic solvents based on sodium salts as electrolytes for supercapacitors, highlighting their safe and efficient performance.
+  image: https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/e503014c-7255-4e4d-9bf1-d4990ba3c8e4/cphc202200692-toc-0001-m.jpg
+  tags:
+  - Supercapacitors
+  - Deep Eutectic Solvents
+  repo: https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cphc.202200224
+
+- id: doi:10.1002/celc.202200681
+  title: Operational Strategies to Improve the Performance and Long‐Term Cyclability of Intermediate Temperature Sodium‐Sulfur Batteries
+  authors:
+  - S Kandhasamy
+  - G Nikiforidis
+  - GJ Jongerden
+  - F Jongerden
+  publisher: ChemElectroChem
+  date: '2021-03-10'
+  link: https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/celc.202100223
+  type: paper
+  description: Study on the safety and stability of sodium-sulfur batteries using different conductive electrolytes, highlighting the SPBF4/ACN system's suitability for energy storage devices.
+  image: https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/9582d5db-3be4-492b-b010-c1a26f6f9b7a/celc202100160-toc-0001-m.jpg
+  tags:
+  - Sodium-Sulfur Batteries
+  - Cyclability Improvement
+  repo: https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/celc.202100223
+
+- id: doi:10.1002/admi.202200204
+  title: Comparative internal pressure evolution at interfaces of activated carbon for supercapacitors containing electrolytes based on linear and cyclic ammonium tetrafluoroborate
+  authors:
+  - G Nikiforidis
+  - S Phadke
+  - M Anouti
+  publisher: Advanced Materials Interfaces
+  date: '2022-11-29'
+  link: https://onlinelibrary.wiley.com/doi/full/10.1002/admi.202202046
+  type: paper
+  description: Comparison of internal pressure evolution at interfaces of activated carbon for supercapacitors with electrolytes based on linear and cyclic ammonium tetrafluoroborate.
+  image: https://onlinelibrary.wiley.com/cms/asset/7718baf5-b428-4929-a007-3226cf583480/admi202370005-gra-0001-m.jpg
+  tags:
+  - Supercapacitors
+  - Activated Carbon
+  repo: https://onlinelibrary.wiley.com/doi/full/10.1002/admi.202202046
+
+- id: doi:10.1016/j.electacta.2022.139529
+  title: Polarizable cesium cations for energy storage from electrolyte characterization to-EDLC application
+  authors:
+  - G Nikiforidis
+  - M El Yagoubi
+  - M Anouti
+  publisher: Electrochimica Acta
+  date: '2022-01-01'
+  link: https://www.sciencedirect.com/science/article/pii/S0013468621018132
+  type: paper
+  description: Study on cesium bis(trifluoromethanesulfonyl) imide (CsTFSI) electrolytes for supercapacitors, showing high specific capacitance, stability, and suitability as a co-salt with LiTFSI.
+  image: https://www.empaneda.com/wp-content/uploads/2023/05/ElectrochimicaActa.jpg
+  tags:
+  - Energy Storage
+  - Electrolyte Characterization
+  repo: https://www.sciencedirect.com/science/article/pii/S0013468621018132
+
+- id: doi:10.1002/celc.202300102
+  title: Performance of PEDOTOH/PEO‐based Supercapacitors in Agarose Gel Electrolyte
+  authors:
+  - S Wustoni
+  - G Nikiforidis
+  - D Ohayon
+  - S Inal
+  - YS Indartono
+  - V Suendo
+  publisher: Chemistry–An Asian Journal
+  date: '2022-09-01'
+  link: https://aces.onlinelibrary.wiley.com/doi/abs/10.1002/asia.202200427
+  type: paper
+  description: Evaluation of hydroxymethyl PEDOT (PEDOTOH) electrodes with hydrogel additives for supercapacitors, highlighting high capacitance and performance in agarose-based gel electrolytes.
+  image: https://aces.onlinelibrary.wiley.com/cms/asset/85921c9e-3a92-4f38-bc3b-a368d6cc0f59/asia202200707-toc-0001-m.jpg
+  tags:
+  - Supercapacitors
+  - Agarose Gel Electrolyte
+  repo: https://aces.onlinelibrary.wiley.com/doi/abs/10.1002/asia.202200427
+
+- id: doi:10.1038/s41467-023-07019-y
+  title: Electrocatalytic on-site oxygenation for transplanted cell-based-therapies
+  authors:
+  - I Lee
+  - A Surendran
+  - S Fleury
+  - I Gimino
+  - A Curtiss
+  - C Fell
+  - DJ Shiwarski
+  publisher: Nature communications
+  date: '2023-11-09'
+  link: https://www.nature.com/articles/s41467-023-42697-2
+  type: paper
+  description: Development of an electrocatalytic approach for bioelectronic control of oxygen generation in transplanted cell-based therapies, using iridium oxide as the catalyst, demonstrating sustained cell viability and high cell loadings.
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-023-42697-2/MediaObjects/41467_2023_42697_Fig1_HTML.png
+  tags:
+  - Electrocatalysis
+  - Cell-Based Therapies
+  repo: https://www.nature.com/articles/s41467-023-42697-2
+
+- id: doi:10.1002/celc.202300183
+  title: Deep Eutectic Mn(NO3)2−H2O Binary System as a Safe, Cost‐Effective, and Efficient Electrolyte for Supercapacitor Applications
+  authors:
+  - M Raghibi
+  - G Nikiforidis
+  - M Anouti
+  publisher: ChemElectroChem
+  date: '2023-06-19'
+  link: https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/celc.202300183
+  type: paper
+  description: Study on manganese nitrate hydrate in aqueous solution as a deep eutectic mixture for supercapacitors, showing favorable properties for rapid energy storage.
+  image: https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/0cbd15e9-7e29-4a1d-a535-b54475777194/celc202300250-toc-0001-m.jpg
+  tags:
+  - Supercapacitors
+  - DES Electrolytes
+  repo: https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/celc.202300183
+
+- id: doi:10.1002/celc.202200571
+  title: Effective Ways to Stabilize Polysulfide Ions for High‐Capacity Li− S Batteries Based on Organic Chalcogenide Catholytes
+  authors:
+  - G Nikiforidis
+  - J Pires
+  - S Phadke
+  - M Anouti
+  publisher: ChemElectroChem
+  date: '2022-09-01'
+  link: https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/celc.202200571
+  type: paper
+  description: Study on performance parameters affecting Li−S batteries, highlighting catholytes with phenyl-dichalcogenide for high specific capacity and energy density.
+  image: https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/18293320-9b6b-4e5b-baf4-9bf862d1a743/celc202200836-toc-0001-m.jpg
+  tags:
+  - Li-S Batteries
+  - Polysulfide Stabilization
+  repo: https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/celc.202200571
+
+- id: doi:10.1002/celc.202300102
+  title: Lithium‐Ion Batteries Containing Surfactants for the Protection of Graphite Anode against the Passivation Layer Byproducts
+  authors:
+  - F Chrétien
+  - G Nikiforidis
+  - C Damas
+  - M Anouti
+  publisher: ChemElectroChem
+  date: '2023-05-12'
+  link: https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/celc.202300102
+  type: paper
+  description: Comparison of three surfactants added to the electrolyte to protect the graphite anode in Li-ion batteries, highlighting their distinct impact on cycling behavior and performance.
+  image: https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/0cbd15e9-7e29-4a1d-a535-b54475777194/celc202300250-toc-0001-m.jpg
+  tags:
+  - Lithium-ion Batteries
+  - Graphite Anode Protection
+  repo: https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/celc.202300102
+
+- id: doi:10.1002/batt.202300560
+  title: Characterization of Manganese Acetate Hydrate Solutions and Their Potential Use for Energy Storage Applications
+  authors:
+  - C Tachouaft
+  - H Kahri
+  - L Wang
+  - G Nikiforidis
+  - M Anouti
+  publisher: Batteries & Supercaps
+  date: '2024-01-17'
+  link: https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/batt.202300560
+  type: paper
+  description: Study exploring manganese acetate hydrate solutions for energy storage, showing notable thermal behaviors, unique transport properties, and effective performance in supercapacitors.
+  image: https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/b4b190e2-51de-4213-921d-6739c6398e22/batt202400167-toc-0001-m.jpg
+  tags:
+  - Energy Storage
+  - Manganese Acetate Hydrate
+  repo: https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/batt.202300560
+
+- id: doi:10.1002/celc.202200881
+  title: Cover Feature-Effective Ways to Stabilize Polysulfide Ions for High‐Capacity Li− S Batteries Based on Organic Chalcogenide Catholytes (ChemElectroChem 18/2022)
+  authors:
+  - G Nikiforidis
+  - J Pires
+  - S Phadke
+  - M Anouti
+  publisher: ChemElectroChem
+  date: '2022-09-01'
+  link: https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/celc.202200881
+  type: paper
+  description: Cover feature illustrating the role of catholyte formulated with phenyl-dichalcogenide and cathode's sulfur in enhancing Li-S battery performance with high energy density.
+  image: https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/18293320-9b6b-4e5b-baf4-9bf862d1a743/celc202200836-toc-0001-m.jpg
+  tags:
+  - Li-S Batteries
+  - Polysulfide Stabilization
+  repo: https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/celc.202200881
+
+- id: doi:10.1016/j.jechem.2021.10.020
+  title: A Vanadium Redox Flow Battery based on a highly concentrated Protic Ionic Liquid Electrolyte
+  authors:
+  - G Nikiforidis
+  - M Anouti
+  publisher: Journal of Energy Chemistry
+  date: '2021-11-01'
+  link: https://hal.science/hal-03545964/document
+  type: paper
+  description: Exploration of a highly concentrated protic ionic liquid electrolyte in vanadium redox flow batteries.
+  image: https://upload.wikimedia.org/wikipedia/commons/e/e5/HAL_-_Logotype_2021_-_EN_01.svg
+  tags:
+  - Vanadium Redox Flow Batteries
+  - Ionic Liquid Electrolytes
+  repo: https://hal.science/hal-03545964/document

@@ -1,0 +1,87 @@
+- title: Safe, efficient, and cheap LIB electrolytes
+  subtitle: Projected Cell Characteristics with Novel Fluorinated Ether Derivatives
+  group: featured
+  image: images/Project_LIB.png
+  link: https://pubs.acs.org/doi/full/10.1021/acs.jpclett.0c03736?casa_token=Ib5le4Qeb50AAAAA%3AmsVJHIe4hp-le_TTBkiHWoSDnOIuLELCO1G-Upeabf0yx5Piz9OZ6_eFErH6hzt4UZVMYTUcZPqwHcc
+  description: The use of fluorinated ether derivatives (FED), such as 1,1,2,2-Tetrafluoroethyl 2,2,2-trifluoroethyl ether, has shown potential for improving the solid electrolyte interface (SEI) layer in lithium-ion batteries. The table below outlines the projected cell characteristics with different electrode materials, focusing on enhanced SEI stability, cycle life, energy density, and electrolyte compatibility across various lithium-based materials, including LTO (Li₄Ti₅O₁₂), Li-Metal Oxides (LiCoO₂, LiMn₂O₄, LiNi₁/₃Co₁/₃Mn₁/₃O), and Li-Metal Polyanionic compounds (LiFePO₄, LiMnPO₄).
+  tags:
+    - Solid Electrolyte Interface
+    - Fluorinated Ether Derivatives
+    - Lithium-ion Batteries
+    - Energy Storage
+
+- title: Sustainable hydrometallurgical recycling of LIBs 
+  subtitle: Green Leaching Process with Organic Acids for Critical Raw Material Extraction
+  group: featured
+  image: images/Project_LIBReplacment.png
+  link: https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/celc.202200571
+  description: The proposed recycling process introduces organic acids during the leaching phase to extract high-value metals such as graphite, cobalt, lithium, and copper—identified as critical raw materials (CRMs). Organic acids like oxalate, citric acid, malic acid, and aspartic acid, combined with oxidant agents, offer a greener solution due to their low environmental impact. These acids are biodegradable, produce minimal hazardous waste, and allow selective leaching, making them a sustainable choice for metal extraction from lithium cobalt oxide (LiCoO₂) consumer batteries.
+  tags:
+    - Recycling Process
+    - Organic Acids
+    - Lithium Cobalt
+    - Critical Raw Materials
+    - Sustainable Energy
+
+
+- title: Protic Ionic Liquids for Redox Flow Batteries
+  subtitle: Vanadium Redox Flow Battery with Pyrrolidine and Methanesulfonic Acid Electrolytes
+  group: featured
+  image: images/Project_RedoxFlowBattery.png
+  link: https://www.sciencedirect.com/science/article/pii/S2095495620306203?casa_token=wRXEHrOWxyYAAAAA:hBuB5BP3AorEvsNBn4yYBnlIdb58uY3EwUnU3QHGJsESazR4wY2GQhteZKAhcyC-cRvNzeuEEg
+  description: A Vanadium Redox Flow Battery (VRFB) utilizing pyrrolidine and methanesulfonic acid (e.g., PyrrH⁺CH₃SO₃⁻) combined with H₂O at varying mass ratios is proposed as a more functional electrolyte alternative. The formation of highly soluble V⁴⁺ and V³⁺ complexes is attributed to the deprotonation of the displaced pyrrolidinium cation and complexation of the vanadyl cations by the amine ligand. This process enhances the energy density of the redox flow battery by a factor of 2, without the need for additional additives.
+  tags:
+    - Redox Flow Batteries
+    - Protic Ionic Liquids
+    - Vanadium Redox Flow Battery
+    - Energy Storage
+    - Electrolytes
+
+- title: Supercapacitors with Protic Ionic Liquids and Deep Eutectic Solvents
+  subtitle: Ionic Mobility in Aqueous Gel-based Supercapacitors
+  group: featured
+  image: images/Project_Supercapacitor.png
+  link: https://onlinelibrary.wiley.com/doi/full/10.1002/admi.202202046
+  description: Supercapacitors (SC) utilizing protic ionic liquids (PIL) and deep eutectic solvents (DES) in both liquid and gel-like forms. The diagram illustrates the mechanism for ionic mobility within an aqueous gel based on polyvinyl alcohol and formamide, combined with a mixture of two nitrate salts, lithium nitrate and pyrrolidinium nitrate. This innovative composition enhances ionic conductivity and energy storage capabilities in supercapacitor systems.
+  tags:
+    - Supercapacitors
+    - Protic Ionic Liquids
+    - Deep Eutectic Solvents
+    - Energy Storage
+    - Ionic Mobility
+
+- title: Semi-flow Intermediate Temperature (IT) Metal-Sulfur Battery
+  subtitle: Operation and Redox Reactions for Enhanced Energy Density and Stability
+  group: featured
+  image: images/Project_ITBattery.png
+  link: https://pubs.rsc.org/en/content/articlehtml/2017/sc/c8ra08658c
+  description: The semi-flow Intermediate Temperature (IT) Metal-Sulfur (M-Na, Li, K) battery integrates flow configuration at the cathode to improve energy density. The redox reaction of dissolved disulfides in the catholyte boosts the specific capacity of the system. The chemical interaction between S₈/Sₓ²⁻ and diorganyl disulfides (e.g., diphenyl disulfide, diethyl disulfide) or thiolate ion stabilizers (e.g., thiophenol, 2,5-dimercapto-1,3,4-thiadiazole) enhances sulfur utilization, suppresses precipitation, and improves both chemical reactivity and cycling stability.
+  tags:
+    - Metal-Sulfur Battery
+    - Intermediate Temperature
+    - Redox Reactions
+    - Energy Storage
+    - Cycling Stability
+
+
+
+- title: TSu Energy
+  subtitle: Provide a data-driven approach to visualize and manage the electrochemical energy system
+  image: images/tsu.png
+  link: https://www.tsuenergy.com
+  description: The phd students' work
+  repo: uowhydrogen.github.io
+  tags:
+    - Machine Learning
+    - Electrochemical Analysis
+
+
+- title: Others2
+  subtitle: a subtitle
+  image: images/photo.jpg
+  link: https://github.com/TSdreamer
+  description: There are blanks here left here to be discovered and filled.
+  repo: uowhydrogen.github.io
+  tags:
+    - Chemical Engineering
+

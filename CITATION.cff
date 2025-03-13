@@ -1,0 +1,11 @@
+# citation metadata for the template itself
+
+title: "Intelligent Energy System Lab"
+version: 1.1.5
+date-released: 2023-09-04
+url: "https://github.com/UoWHydrogen"
+authors:
+  - family-names: "Ma"
+    given-names: "Haotian"
+    github: "https://github.com/TSdreamer"
+cff-version: 1.2.0
