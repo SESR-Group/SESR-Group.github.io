@@ -3,18 +3,12 @@ title: First Year Doctoral Showcase
 image: /images/1styear_william.jpg
 author: 99nikiforidis-georgios
 tags:
-  - "Group Celebration"
-  - "Lantern Festival"
+  - "Group Achievement"
   - "Team Updates"
 ---
 
-William and Sijin have reached an important milestone by completing their first year as doctoral candidates. Their journey is marked by rigorous research, intellectual curiosity, and a commitment to pushing the boundaries of academic inquiry.
+MAPS Academy organized this first year showcase, featuring doctoral candidates William and Sijin. Over the past year, they have worked hard through rigorous coursework and research projects. Their steady progress and practical contributions have made this event a clear reflection of their dedication to academic growth.
 
-Throughout this inaugural year, they have navigated challenging coursework, innovative research projects, and collaborative endeavors that have enriched both their personal growth and the wider academic community. Their achievements stand as a testament to the transformative power of perseverance and teamwork in the pursuit of knowledge.
+Their participation in the showcase highlights a solid start to their doctoral journey, and we look forward to more collaborations and continued progress in the future.
 
-As they look ahead, we eagerly anticipate the groundbreaking contributions their doctoral studies will bring. With each step forward, their dedication to scholarly excellence and collaborative spirit promises to inspire future generations and reshape the landscape of research.
-
-
-![Hotpot Celebration](/images/1styear_william.jpg)
-
-We look forward to more collaborations and camaraderie in the future!
+![William Presentation](/images/1styear_william.jpg)
