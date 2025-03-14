@@ -1,7 +1,7 @@
 ---
-title: First Year Doctoral Showcase
+title: First-Year Doctoral Showcase
 image: /images/1styear_william.jpg
-author: 00ziwei-chen-phd
+author: 00ziwei-chen-phd ; 00sijin-liu-phd
 tags:
   - "Group Achievement"
   - "Team Updates"
