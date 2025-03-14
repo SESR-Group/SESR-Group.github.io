@@ -2,7 +2,7 @@
 title: Report
 nav:
   order: 4
-  tooltip: latest developments
+  tooltip: Group news
 ---
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}News
