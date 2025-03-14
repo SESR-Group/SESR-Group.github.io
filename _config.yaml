@@ -1,6 +1,6 @@
 # Site properties and page defaults
-title: Sustainable Energy Storage & Recycling 
-subtitle:  UCL - UCL East (Institute for Materials Discovery)
+title: Sustainable Energy Storage & Recycling
+subtitle: UCL - UCL East (Institute for Materials Discovery)
 description: >
   Welcome to the Sustainable Energy Storage & Recycling Group, led by [Dr.Georgios Nikiforidis](https://www.ucl.ac.uk/institute-for-materials-discovery/people/dr-georgios-nikiforidis) at the University College London. Our mission is to advance the development and implementation of sustainable energy storage materials and technologies, focusing on the circular economy of electric vehicle (EV) batteries, bio-energy production, and green electrolyte engineering. We are at the forefront of research and development, pioneering solutions that bridge the gap between green energy and cutting-edge digital processes. With a shared commitment to a more sustainable future, we explore the intersection of renewable energy technologies and digital optimization methods. Our expertise and collaborative spirit drive us to create a world where clean energy and digital innovation coexist harmoniously, revolutionizing the way we power our planet. Join us on this journey towards a sustainable future and discover the innovative projects and groundbreaking research being pursued by our dedicated team.
 header: images/background.jpg
@@ -9,27 +9,28 @@ footer: images/background.jpg
 # Site social media and other links
 links:
   email: georgios.nikiforidis@ucl.ac.uk
-  orcid: 0000-0002-8754-5091
-  google-scholar: https://scholar.google.com/citations?user=3D4G2t8AAAAJ&hl=en&oi=ao
-  github: https://github.com/SESR-Group
-  twitter: YourLabHandle
-  youtube: UCLTV
+  orcid: "0000-0002-8754-5091"
+  google-scholar: "https://scholar.google.com/citations?user=3D4G2t8AAAAJ&hl=en&oi=ao"
+  github: "https://github.com/SESR-Group"
+  twitter: "YourLabHandle"
+  youtube: "UCLTV"
 
 ### Jekyll settings
 
 # Front matter defaults
 defaults:
-  # All markdown files
   - scope:
       path: ""
     values:
       layout: default
-  # Markdown files in /_members
   - scope:
       type: "members"
     values:
       layout: member
-  # Markdown files in /_posts
+  - scope:
+      type: "projects"
+    values:
+      layout: project
   - scope:
       type: "posts"
     values:
@@ -42,6 +43,9 @@ collections:
     output: true
   # Generate page for each post
   posts:
+    output: true
+  # Generate page for each project (optional)
+  projects:
     output: true
 
 # Jekyll plugins
