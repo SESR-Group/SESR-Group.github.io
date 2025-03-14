@@ -1,11 +1,14 @@
 ---
 title: First-Year Doctoral Showcase
 image: /images/1styear_william.jpg
-author: 00ziwei-chen-phd ; 00sijin-liu-phd
+authors:
+  - "00ziwei-chen-phd"
+  - "00sijin-liu-phd"
 tags:
   - "Group Achievement"
   - "Team Updates"
 ---
+
 
 MAPS Academy organized this first year showcase, featuring doctoral candidates William Chen and Sijin Liu.
 
