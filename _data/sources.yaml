@@ -259,7 +259,7 @@
 
 
 - id: doi:10.1002/batt.202500259
-  title: Exploring Rochelle Salt Aqueous Solutions for Supercapacitors: Transport, Stability, and Performance
+  title: Exploring Rochelle Salt Aqueous Solutions for Supercapacitors-Transport, Stability, and Performance
   authors:
   - Hamza Kahri
   - Chalal Tachouaft
@@ -272,7 +272,7 @@
   link: https://doi.org/10.1002/batt.202500259
   type: paper
   description: This study investigates the use of Rochelle salt aqueous solutions as electrolytes for supercapacitors, focusing on ion transport properties, electrochemical stability, and performance metrics.
-  image: https://www.batteries-supercaps.org/logo.jpg
+  image: https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/b4b190e2-51de-4213-921d-6739c6398e22/batt202400167-toc-0001-m.jpg
   tags:
   - Supercapacitors
   - Aqueous Electrolytes
