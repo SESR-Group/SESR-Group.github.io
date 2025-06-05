@@ -18,6 +18,29 @@
   - Glucose Detection
   repo: https://www.nature.com/articles/s41563-019-0556-4
 
+
+- id: doi:10.1002/batt.202500259
+  title: Exploring Rochelle Salt Aqueous Solutions for Supercapacitors-Transport, Stability, and Performance
+  authors:
+  - Hamza Kahri
+  - Chalal Tachouaft
+  - Yanzhuo Li
+  - Ziwei Chen
+  - Mérièm Anouti
+  - Georgios Nikiforidis
+  publisher: Batteries & Supercaps (Chemistry Europe)
+  date: '2025-05-21'
+  link: https://doi.org/10.1002/batt.202500259
+  type: paper
+  description: This study investigates the use of Rochelle salt aqueous solutions as electrolytes for supercapacitors, focusing on ion transport properties, electrochemical stability, and performance metrics.
+  image: https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/b4b190e2-51de-4213-921d-6739c6398e22/batt202400167-toc-0001-m.jpg
+  tags:
+  - Supercapacitors
+  - Aqueous Electrolytes
+  - Rochelle Salt
+  repo: https://doi.org/10.1002/batt.202500259
+
+
 - id: doi:10.1002/cplu.201402066
   title: The development of Zn–Ce hybrid redox flow batteries for energy storage and their continuing challenges
   authors:
@@ -35,6 +58,7 @@
   - Energy Storage
   - Redox Flow Batteries
   repo: https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cplu.201402066
+
 
 - id: doi:10.1038/s41467-020-16817-3
   title: Water stable molecular n-doping produces organic electrochemical transistors with high transconductance and record stability
