@@ -1,3 +1,25 @@
+- id: doi:10.1002/batt.202500259
+  title: Exploring Rochelle Salt Aqueous Solutions for Supercapacitors-Transport, Stability, and Performance
+  authors:
+  - Hamza Kahri
+  - Chalal Tachouaft
+  - Yanzhuo Li
+  - Ziwei Chen
+  - Mérièm Anouti
+  - Georgios Nikiforidis
+  publisher: Batteries & Supercaps (Chemistry Europe)
+  date: '2025-05-21'
+  link: https://doi.org/10.1002/batt.202500259
+  type: paper
+  description: This study investigates the use of Rochelle salt aqueous solutions as electrolytes for supercapacitors, focusing on ion transport properties, electrochemical stability, and performance metrics.
+  image: https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/b4b190e2-51de-4213-921d-6739c6398e22/batt202400167-toc-0001-m.jpg
+  tags:
+  - Supercapacitors
+  - Aqueous Electrolytes
+  - Rochelle Salt
+  repo: https://doi.org/10.1002/batt.202500259
+
+
 - id: doi:10.1038/s41563-020-0601-5
   title: Biofuel powered glucose detection in bodily fluids with an n-type conjugated polymer
   authors:
@@ -256,29 +278,6 @@
   - Carbon Composite Materials
   - Redox Flow Cells
   repo: https://www.sciencedirect.com/science/article/pii/S0013468613018239
-
-
-- id: doi:10.1002/batt.202500259
-  title: Exploring Rochelle Salt Aqueous Solutions for Supercapacitors-Transport, Stability, and Performance
-  authors:
-  - Hamza Kahri
-  - Chalal Tachouaft
-  - Yanzhuo Li
-  - Ziwei Chen
-  - Mérièm Anouti
-  - Georgios Nikiforidis
-  publisher: Batteries & Supercaps (Chemistry Europe)
-  date: '2025-05-21'
-  link: https://doi.org/10.1002/batt.202500259
-  type: paper
-  description: This study investigates the use of Rochelle salt aqueous solutions as electrolytes for supercapacitors, focusing on ion transport properties, electrochemical stability, and performance metrics.
-  image: https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/b4b190e2-51de-4213-921d-6739c6398e22/batt202400167-toc-0001-m.jpg
-  tags:
-  - Supercapacitors
-  - Aqueous Electrolytes
-  - Rochelle Salt
-  repo: https://doi.org/10.1002/batt.202500259
-
 
 - id: doi:10.1016/j.electacta.2014.01.079
   title: Charge/discharge cycles on Pt and Pt-Ir based electrodes for the positive side of the Zinc-Cerium hybrid redox flow battery
