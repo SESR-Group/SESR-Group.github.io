@@ -1,3 +1,30 @@
+- id: doi:10.1021/acsaem.5c01337
+  title: A Nonflammable Deep Eutectic Electrolyte for Safe and High-Performance Lithium Iron Phosphate-Lithium Titanium Oxide Cells
+  authors:
+  - Muhammad Hakeem Noor Azleen
+  - Pei-Min Ting
+  - Ziwei Chen
+  - Yanzhuo Li
+  - Yao Shi
+  - Shahab Akhavan
+  - Meriem Anouti
+  - Georgios Nikiforidis
+  publisher: ACS Applied Energy Materials
+  date: '2025-07-07'
+  link: https://pubs.acs.org/doi/10.1021/acsaem.5c01337
+  type: paper
+  description: Development of a nonflammable deep eutectic electrolyte (1:3 LiTFSI:EC) compatible with lithium iron phosphate (LFP) cathodes and lithium titanate oxide (LTO) anodes. The electrolyte enhances safety by preventing thermal runaway, maintains high capacity retention (>85% over 400 cycles), shows low interfacial resistance, robust energy efficiency (~83% at 1C), and quasi-reversible, diffusion-controlled electrochemical behavior. Flame resistance was confirmed under direct torch exposure, demonstrating practical viability for power and stationary storage applications requiring high reliability.
+  image: https://pubs.acs.org/cms/10.1021/aaemcq.ahead-of-print/asset/17b35d70-1517-35d7-6151-b35d7061517b/largecover.jpg
+  tags:
+  - Deep Eutectic Electrolytes
+  - Lithium-Ion Batteries
+  - LFP
+  - LTO
+  - Battery Safety
+  repo: https://pubs.acs.org/doi/10.1021/acsaem.5c01337
+
+
+
 - id: doi:10.1038/s41563-020-0601-5
   title: Biofuel powered glucose detection in bodily fluids with an n-type conjugated polymer
   authors:
