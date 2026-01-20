@@ -1,26 +1,3 @@
-- id: doi:10.1002/aelm.202500708
-  title: Wheat Bran-Algae Composites as Robust Platforms for Edible Electronics with Spray-Coated Conductive Inks
-  authors:
-  - J Johari
-  - M Zhu
-  - Z Wang
-  - Y Lang
-  - Georgios Nikiforidis
-  - M Wang
-  - M Nie
-  - Shahab Akhavan
-  publisher: Advanced Edible Electronics
-  date: '2026-01-20'
-  link: https://doi.org/10.1002/aelm.202500708
-  type: paper
-  description: This work introduces sustainable, edible electronic platforms using wheat bran and algae composites. By utilizing spray-coated conductive inks, the study demonstrates a robust method for creating biodegradable and food-safe electronic components, opening new pathways for transient and medical electronics.
-  tags:
-  - Edible Electronics
-  - Sustainable Materials
-  - Biodegradable Sensors
-  - Conductive Inks
-
-
 - id: doi:10.1016/j.mtsust.2025.101217
   title: Design and Optimization of Binder-Free rGO/AlO(OH)/Al2O3 Aerogels for Energy Storage
   authors:
