@@ -3,9 +3,9 @@
 
 # SESR Group
 
-[Sustainable Energy Storage & Recycling (SES&R) Group](https://SESR-Group.github.io) is a research center at University College London (UCL) led by [Dr.Georgios Nikiforidis](https://www.ucl.ac.uk/institute-for-materials-discovery/people/dr-georgios-nikiforidis). The group is dedicated to creating sustainable energy storage materials and technologies, with a primary focus on three key areas: **EV Battery Recycling**, **Bio-energy Production**, and **Green Electrolyte Engineering**. Our goal is to advance the fundamental science and engineering principles that drive these fields, ultimately contributing to a sustainable energy future.
+[Sustainable Energy Storage & Recycling (SESR) Group](https://SESR-Group.github.io) is located at at University College London (UCL) East and is led by [Dr.Georgios Nikiforidis](https://www.ucl.ac.uk/institute-for-materials-discovery/people/dr-georgios-nikiforidis). The group is dedicated to creating sustainable energy storage materials and technologies, with a primary focus on three key areas: **Battery Recycling**, **Bio-energy Production**, and **Green Electrolyte Engineering**. Our goal is to advance the fundamental science and engineering principles that drive these fields, ultimately contributing to a sustainable energy future.
 
-Equipped with state-of-the-art facilities, SES&R Group conducts groundbreaking research to develop innovative solutions that address critical challenges in energy storage and recycling. By leveraging advanced materials science, and artificial intelligence, we aim to enhance the efficiency, sustainability, and circularity of energy systems.
+Equipped with state-of-the-art facilities, the SESR Group works on developing innovative solutions that address critical challenges in energy storage and recycling. By leveraging advanced materials science, and artificial intelligence, we aim to enhance the efficiency, sustainability, and circularity of energy systems.
 
 {%
   include button.html
@@ -26,7 +26,7 @@ Equipped with state-of-the-art facilities, SES&R Group conducts groundbreaking r
 
 {% capture text %}
 
-Our research encompasses a broad spectrum of activities, from the fundamental study of materials and electrochemical processes to the development and testing of new technologies. We focus on improving the performance and sustainability of EV batteries, developing bio-energy production methods from waste, and engineering green electrolytes that are safer and more efficient.
+Our research encompasses a broad spectrum of activities, from the fundamental study of materials and electrochemical processes to the development and testing of new technologies. We focus on improving the performance and sustainability of energy systems, developing bio-energy production methods from waste, and engineering green electrolytes that are safer and more efficient.
 
 {%
   include button.html
@@ -74,7 +74,7 @@ Collaborating with industry partners and research institutions worldwide, we are
 
 {% capture text %}
 
-Our team comprises experts in renewable energy, materials science, and digital technologies. Together, we are driven by a shared vision of creating a sustainable future through innovation and excellence in research. Join us in our mission to revolutionize the energy landscape.
+Our team comprises experts in renewable energy, materials science, and digital technologies. Together, we are driven by a shared vision of creating a sustainable future through innovation and excellence in research. 
 
 {%
   include button.html
