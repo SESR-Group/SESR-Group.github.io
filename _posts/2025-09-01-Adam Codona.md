@@ -1,6 +1,6 @@
 ---
 title: Arrival of PhD Student Adam Codona
-image: images/group-2.jpg
+image: images/Adam Codna.jpg
 author: 99nikiforidis-georgios
 tags: 
   - "New Members"
