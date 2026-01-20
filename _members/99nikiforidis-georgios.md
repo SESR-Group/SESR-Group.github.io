@@ -6,7 +6,7 @@ description: Principal Investigator
 
 
 links:
-  home-page: https://profiles.ucl.ac.uk/87959
+  home-page: https://profiles.ucl.ac.uk/87959-georgios-nikiforidis
   linkedin: georgiosnikiforidis
   email: georgios.nikiforidis@ucl.ac.uk
   google-scholar: https://scholar.google.com/citations?user=3D4G2t8AAAAJ&hl=en&oi=ao
