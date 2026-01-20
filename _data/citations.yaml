@@ -1,3 +1,66 @@
+- id: doi:10.1002/aelm.202500708
+  title: Wheat Bran-Algae Composites as Robust Platforms for Edible Electronics with Spray-Coated Conductive Inks
+  authors:
+  - J. Johari
+  - M. Zhu
+  - Z. Wang
+  - Y. Lang
+  - Georgios Nikiforidis
+  - M. Wang
+  - M. Nie
+  - Shahab Akhavan
+  publisher: Advanced Edible Electronics
+  date: '2026-01-20'
+  link: https://doi.org/10.1002/aelm.202500708
+  type: paper
+  description: This work introduces sustainable, edible electronic platforms using wheat bran and algae composites. By utilizing spray-coated conductive inks, the study demonstrates a robust method for creating biodegradable and food-safe electronic components, opening new pathways for transient and medical electronics.
+  tags:
+  - Edible Electronics
+  - Sustainable Materials
+  - Biodegradable Sensors
+  - Conductive Inks
+
+- id: doi:10.1016/j.mtsust.2025.101217
+  title: Design and Optimization of Binder-Free rGO/AlO(OH)/Al2O3 Aerogels for Energy Storage
+  authors:
+  - S. Ishaq
+  - H. Ma
+  - Y. Li
+  - Georgios Nikiforidis
+  publisher: Materials Today Sustainability
+  date: '2025-01-15'
+  link: https://doi.org/10.1016/j.mtsust.2025.101217
+  type: paper
+  description: An exploration into the synthesis of binder-free aerogels combining reduced graphene oxide (rGO) with aluminum oxides. The research focuses on optimizing the structural integrity and electrochemical surface area to enhance energy storage performance in sustainable supercapacitor applications.
+  tags:
+  - Aerogels
+  - rGO
+  - Energy Storage
+  - Sustainability
+
+- id: doi:10.1002/smtd.202501194
+  title: Enhancing Stability and Capacity in Planar Zn-Ion Micro-Batteries via 3D Porous Ni Anode Integration
+  authors:
+  - Y. Zhu
+  - X. Liu
+  - N. Naresh
+  - J. Luo
+  - X. Hu
+  - S. Liu
+  - Georgios Nikiforidis
+  - M. Wang
+  - B. Deka Boruah
+  publisher: Small Methods
+  date: '2025-05-12'
+  link: https://doi.org/10.1002/smtd.202501194
+  type: paper
+  description: Investigation of planar Zinc-ion micro-batteries (ZIBs) using a 3D porous Nickel anode. The integration of the 3D structure effectively manages Zn dendrite growth and improves cycling stability, significantly boosting the capacity and lifespan of micro-scale energy storage devices.
+  tags:
+  - Zinc-Ion Batteries
+  - Micro-Batteries
+  - 3D Anodes
+  - Energy Density
+  
 - id: doi:10.1021/acsaem.5c01337
   title: A Nonflammable Deep Eutectic Electrolyte for Safe and High-Performance Lithium Iron Phosphate-Lithium Titanium Oxide Cells
   authors:
