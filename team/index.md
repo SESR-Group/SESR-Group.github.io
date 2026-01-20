@@ -7,8 +7,8 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-We are a dedicated group of professionals united by a common mission to drive innovation, efficiency, and excellence in energy-related processes within our organization. 
-Our team plays a pivotal role in shaping the digital landscape of our organization, fostering collaboration, and driving sustainable practices in the energy sector.
+We are a team of researchers and engineers focused on improving the efficiency and sustainability of energy processes. 
+By combining technical innovation with collaborative research, we work to develop practical solutions for the energy sector.
 
 
 {% include section.html %}
