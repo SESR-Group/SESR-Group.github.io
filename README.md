@@ -15,7 +15,7 @@ The Group's mission is to advance the development and implementation of **sustai
 <!-- GreenEnergy-->
 ![My Local Image](./energy-storage.png)
 
-SESR Group is located at the [University College London](https://www.ucl.ac.uk/) East campus (Marshgate) [Institute for Material Discovery](https://www.ucl.ac.uk/institute-for-materials-discovery/about).
+The SESR Group is located at the [University College London](https://www.ucl.ac.uk/) East campus (Marshgate) [Institute for Material Discovery](https://www.ucl.ac.uk/institute-for-materials-discovery/about).
 
 
 
