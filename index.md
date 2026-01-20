@@ -26,7 +26,7 @@ Equipped with state-of-the-art facilities, the SESR Group works on developing in
 
 {% capture text %}
 
-Our research encompasses a broad spectrum of activities, from the fundamental study of materials and electrochemical processes to the development and testing of new technologies. We focus on improving the performance and sustainability of energy systems, developing bio-energy production methods from waste, and engineering green electrolytes that are safer and more efficient.
+Our research encompasses a broad spectrum of activities, from the fundamental study of materials and electrochemical processes to the development and testing of new technologies. We focus on improving the performance and sustainability of energy storage systems, developing bio-energy production methods from waste, and engineering green electrolytes that are safer and more efficient.
 
 {%
   include button.html
