@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-For more details,please contact [Dr.Georgios Nikiforidis](https://www.ucl.ac.uk/institute-for-materials-discovery/people/dr-georgios-nikiforidis)for more information.
+For more details, please contact [Dr.Georgios Nikiforidis](https://www.ucl.ac.uk/institute-for-materials-discovery/people/dr-georgios-nikiforidis).
 
 {%
   include button.html
