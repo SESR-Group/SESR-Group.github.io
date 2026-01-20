@@ -6,17 +6,17 @@
   <img src="https://i.imgur.com/JlXPELW.jpg" width="400" /> 
 </div>
 
-Welcome to the **GitHub Homepage** of the  **Sustainable Energy Storage & Recycling Group** led by **Dr.Nikiforidis Georgios** at the **University College London**. 
+Welcome to the **GitHub Homepage** of the  **Sustainable Energy Storage and Recycling Group** (SESR) led by **Dr.Nikiforidis Georgios** at the **University College London**. 
 
 
-The **Sustainable Energy Storage & Recycling Group**(SESR Group)'s mission is to advance the development and implementation of **sustainable energy storage materials and technologies**, focusing on the **Circular economy of electric vehicle (EV) batteries**, **Bio-energy production**, and **Green electrolyte engineering**.
+The Group's mission is to advance the development and implementation of **sustainable energy storage materials and technologies**, focusing on the **circular economy of electric vehicle (EV) batteries**, **Bio-energy production**, and **green electrolyte engineering**.
 
 
 <!-- GreenEnergy-->
 ![My Local Image](./energy-storage.png)
 
-SESR Group is located at the [University College London](https://www.ucl.ac.uk/) , in the [School of Chemistry](https://www.ucl.ac.uk/chemistry/) [Institute for Material Discovery](https://www.ucl.ac.uk/institute-for-materials-discovery/about).
+SESR Group is located at the [University College London](https://www.ucl.ac.uk/) East campus (Marshgate) [Institute for Material Discovery](https://www.ucl.ac.uk/institute-for-materials-discovery/about).
 
 
 
-For more information on the type of projects being pursued by the SESR Group, take a look at the publications page of [Dr.Nikiforidis Georgios](https://scholar.google.com/citations?user=3D4G2t8AAAAJ&hl=en&oi=ao).
+For more information take a look at our publications page of [Dr.Nikiforidis Georgios](https://scholar.google.com/citations?user=3D4G2t8AAAAJ&hl=en&oi=ao).
