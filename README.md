@@ -15,7 +15,7 @@ The **Sustainable Energy Storage & Recycling Group**(SESR Group)'s mission is to
 <!-- GreenEnergy-->
 ![My Local Image](./energy-storage.png)
 
-=SESR Group is located at the [University College London](https://www.ucl.ac.uk/) , in the [School of Chemistry](https://www.ucl.ac.uk/chemistry/) [Institute for Material Discovery](https://www.ucl.ac.uk/institute-for-materials-discovery/about).
+SESR Group is located at the [University College London](https://www.ucl.ac.uk/) , in the [School of Chemistry](https://www.ucl.ac.uk/chemistry/) [Institute for Material Discovery](https://www.ucl.ac.uk/institute-for-materials-discovery/about).
 
 
 
