@@ -14,7 +14,7 @@ links:
 ---
 
 
-I have over thirteen years of experience in chemical engineering, physical chemistry, and materials science, focusing on the design, synthesis, characterization, and recycling of materials and electrolytes for energy storage devices. My expertise spans various technologies, including redox flow batteries, supercapacitors and metal-based batteries. My additional education in economics enhances my understanding of the energy market, making me a versatile candidate capable of offering unique insights to any project.
+I have over fifteen years of experience in chemical engineering, physical chemistry, and materials science, focusing on the design, synthesis, characterization, and recycling of materials and electrolytes for energy storage devices. My expertise spans various technologies, including redox flow batteries, supercapacitors and metal-based batteries. My additional education in economics enhances my understanding of the energy market, making me a versatile candidate capable of offering unique insights to any project.
 
 
 
