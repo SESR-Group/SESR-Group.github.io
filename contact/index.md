@@ -8,6 +8,7 @@ nav:
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
 For more details, please contact [Dr.Georgios Nikiforidis](https://www.ucl.ac.uk/institute-for-materials-discovery/people/dr-georgios-nikiforidis).
+UCL East address: Marshgate Building, 7 Sidings St, London E20 2AE (7th floor, MDL Lab, Room 711b)
 
 {%
   include button.html
