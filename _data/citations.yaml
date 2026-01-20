@@ -1,3 +1,62 @@
+- id: doi:10.1002/aelm.202500708
+  title: Wheat Bran-Algae Composites as Robust Platforms for Edible Electronics with Spray-Coated Conductive Inks
+  authors:
+  - J. Johari
+  - M. Zhu
+  - Z. Wang
+  - Y. Lang
+  - Georgios Nikiforidis
+  - M. Wang
+  - M. Nie
+  - Shahab Akhavan
+  publisher: Advanced Edible Electronics
+  date: '2026-01-20'
+  link: https://doi.org/10.1002/aelm.202500708
+  type: paper
+  description: This work introduces sustainable, edible electronic platforms using wheat bran and algae composites. It demonstrates a robust method for creating biodegradable and food-safe electronic components.
+  tags:
+  - Edible Electronics
+  - Sustainable Materials
+  - Conductive Inks
+
+- id: doi:10.1016/j.mtsust.2025.101217
+  title: Design and Optimization of Binder-Free rGO/AlO(OH)/Al2O3 Aerogels for Energy Storage
+  authors:
+  - S. Ishaq
+  - H. Ma
+  - Y. Li
+  - Georgios Nikiforidis
+  publisher: Materials Today Sustainability
+  date: '2025-01-15'
+  link: https://doi.org/10.1016/j.mtsust.2025.101217
+  type: paper
+  description: Exploration into the synthesis of binder-free aerogels combining reduced graphene oxide with aluminum oxides for enhanced energy storage.
+  tags:
+  - Aerogels
+  - rGO
+  - Energy Storage
+
+- id: doi:10.1002/smtd.202501194
+  title: Enhancing Stability and Capacity in Planar Zn-Ion Micro-Batteries via 3D Porous Ni Anode Integration
+  authors:
+  - Y. Zhu
+  - X. Liu
+  - N. Naresh
+  - J. Luo
+  - X. Hu
+  - S. Liu
+  - Georgios Nikiforidis
+  - M. Wang
+  - B. Deka Boruah
+  publisher: Small Methods
+  date: '2025-05-12'
+  link: https://doi.org/10.1002/smtd.202501194
+  type: paper
+  description: Investigation of planar Zinc-ion micro-batteries using a 3D porous Nickel anode to improve cycling stability and capacity.
+  tags:
+  - Zinc-Ion Batteries
+  - Micro-Batteries
+  - 3D Anodes
 - id: doi:10.1021/acsaem.5c01337
   title: A Nonflammable Deep Eutectic Electrolyte for Safe and High-Performance Lithium Iron Phosphate-Lithium Titanium Oxide Cells
   authors:
@@ -782,40 +841,3 @@
   - Vanadium Redox Flow Batteries
   - Ionic Liquid Electrolytes
   repo: https://hal.science/hal-03545964/document
-
-  - title: Wheat Bran-Algae Composites as Robust Platforms for Edible Electronics with Spray-Coated Conductive Inks
-  subtitle: Advanced Edible Electronics (2026) (Accepted)
-  group: publications
-  image: images/publication1.png
-  link: https://doi.org/10.1002/aelm.202500708
-  description: J. Johari, M. Zhu, Z. Wang, Y. Lang, G. Nikiforidis, M. Wang, M. Nie, S. Akhavan* — Wheat bran‑algae composites as robust platforms for edible electronics with spray‑coated conductive inks. Accepted (2026).
-  tags:
-    - Edible Electronics
-    - Conductive Inks
-    - Composites
-    - Wheat Bran
-    - Algae
-
-- title: Design and Optimization of Binder-Free rGO/AlO(OH)/Al2O3 Aerogels for Energy Storage
-  subtitle: Materials Today Sustainability, 31 (2025) 101217
-  group: publications
-  image: images/publication2.png
-  link: https://doi.org/10.1016/j.mtsust.2025.101217
-  description: S. Ishaq, H. Ma, Y. Li, G. Nikiforidis* — Design and optimization of binder‑free rGO/AlO(OH)/Al2O3 aerogels targeted for energy storage applications. Published 2025.
-  tags:
-    - Aerogels
-    - Energy Storage
-    - rGO
-    - Materials Sustainability
-
-- title: Enhancing Stability and Capacity in Planar Zn-Ion Micro-Batteries via 3D Porous Ni Anode Integration
-  subtitle: Small Methods (2025) e01194
-  group: publications
-  image: images/publication3.png
-  link: https://doi.org/10.1002/smtd.202501194
-  description: Y. Zhu, X. Liu, N. Naresh, J. Luo, X. Hu, S. Liu, G. Nikiforidis, M. Wang, B. Deka Boruah — Integration of 3D porous nickel anodes to enhance stability and capacity in planar Zn‑ion micro‑batteries. 2025.
-  tags:
-    - Zinc-ion Batteries
-    - Micro-batteries
-    - Nickel Anode
-    - Energy Storage
