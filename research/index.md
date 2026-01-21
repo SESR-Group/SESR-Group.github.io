@@ -7,9 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %} Research
 
-Our work is centered on advancing the foundational elements of sustainable energy storage and recycling, with a primary emphasis on three key disciplines: **EV Battery Recycling**, **Bio-energy Production**, and **Green Electrolyte Engineering**. By combining expertise in these areas, we strive to unlock new insights, innovations, and solutions to accelerate the transition towards a sustainable energy future.
-
-For more details, please contact [Dr.Georgios Nikiforidis](https://scholar.google.com/citations?user=3D4G2t8AAAAJ&hl=en&oi=ao) for more information.
+Our work is centered on investigating and advancing sustainable energy storage and recycling. 
 
 {%
   include button.html
