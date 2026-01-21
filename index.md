@@ -3,7 +3,7 @@
 
 # SESR Group
 
-[Sustainable Energy Storage & Recycling (SESR) Group](https://SESR-Group.github.io) is located at at University College London (UCL) East and is led by [Dr.Georgios Nikiforidis](https://www.ucl.ac.uk/institute-for-materials-discovery/people/dr-georgios-nikiforidis). The group is dedicated to creating sustainable energy storage materials and technologies, with a primary focus on three key areas: **Battery Recycling**, **Bio-energy Production**, and **Green Electrolyte Engineering**. Our goal is to advance the fundamental science and engineering principles that drive these fields, ultimately contributing to a sustainable energy future.
+The [Sustainable Energy Storage & Recycling (SESR) Group](https://SESR-Group.github.io) is located at at University College London (UCL) East and is led by [Dr.Georgios Nikiforidis](https://www.ucl.ac.uk/institute-for-materials-discovery/people/dr-georgios-nikiforidis). The group is dedicated to creating sustainable energy storage materials and technologies, with a primary focus on three key areas: **Battery Recycling**, **Bio-energy Production**, and **Green Electrolyte Engineering**. Our goal is to advance the fundamental science and engineering principles that drive these fields, ultimately contributing to a sustainable energy future.
 
 Equipped with state-of-the-art facilities, the SESR Group works on developing innovative solutions that address critical challenges in energy storage and recycling. By leveraging advanced materials science, and artificial intelligence, we aim to enhance the efficiency, sustainability, and circularity of energy systems.
 
