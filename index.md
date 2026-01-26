@@ -26,7 +26,7 @@ Equipped with state-of-the-art facilities, the SESR Group works on developing in
 
 {% capture text %}
 
-Our research encompasses a broad spectrum of activities, from the fundamental study of materials and electrochemical processes to the development and testing of new technologies. We focus on improving the performance and sustainability of energy storage systems, developing bio-energy production methods from waste, and engineering green electrolytes that are safer and more efficient.
+Our research encompasses a broad spectrum of activities, from the fundamental study of materials and electrochemical processes to the development and testing of new technologies. We develop better batteries, turn waste into energy, create safer electrolytes, and engineer systems for efficient battery recycling.
 
 {%
   include button.html
@@ -49,7 +49,7 @@ Our research encompasses a broad spectrum of activities, from the fundamental st
 
 {% capture text %}
 
-Collaborating with industry partners and research institutions worldwide, we are committed to translating our scientific discoveries into practical applications. Our partnerships facilitate the exchange of knowledge and resources, driving innovation and creating impactful solutions for sustainable energy challenges.
+We work with companies and other research groups around the world. This collaboration helps us turn our research into real-world products and solutions. By sharing knowledge and resources, we aim to solve practical problems in sustainable energy.
 
 {%
   include button.html
@@ -74,7 +74,7 @@ Collaborating with industry partners and research institutions worldwide, we are
 
 {% capture text %}
 
-Our team comprises experts in renewable energy, materials science, and digital technologies. Together, we are driven by a shared vision of creating a sustainable future through innovation and excellence in research. 
+Our team comprises experts in chemistry, materials science, and digital technologies. Together, we are driven by a shared vision of creating a sustainable future through innovation and excellence in research. 
 
 {%
   include button.html
