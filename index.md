@@ -10,7 +10,7 @@ Equipped with state-of-the-art facilities, the SESR Group works on developing in
 {%
   include button.html
   type="github"
-  text="Principle Investigator & Director"
+  text="Principle Investigator"
   link="https://profiles.ucl.ac.uk/87959"
 %}
 
