@@ -7,8 +7,8 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-We are a team of researchers and engineers focused on improving the efficiency and sustainability of energy processes. 
-By combining technical innovation with collaborative research, we work to develop practical solutions for the energy sector.
+We are a team of researchers, chemists, and engineers working to make energy processes more efficient and sustainable. 
+Through technical innovation and collaboration, we develop practical solutions for the energy sector.
 
 
 {% include section.html %}
