@@ -13,12 +13,6 @@ Equipped with state-of-the-art facilities, the SESR Group works on developing in
   text="Principle Investigator & Director"
   link="https://profiles.ucl.ac.uk/87959"
 %}
-{%
-  include button.html
-  type="docs"
-  text="Coding Executor"
-  link="https://Haotian-ma.com"
-%}
 
 {% include section.html %}
 
