@@ -14,7 +14,6 @@ Through technical innovation and collaboration, we develop practical solutions f
 {% include section.html %}
 {% include list.html data="members" component="portrait" filters="role: pi" %}<p></p>
 {% include list.html data="members" component="portrait" filters="role: phd" %}<p></p>
-{% include list.html data="members" component="portrait" filters="role: undergrad" %}
 
 
 {% capture content %}
