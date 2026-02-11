@@ -42,30 +42,15 @@
   
 </footer>
 
-<!-- License Protection - Authorised by Haotian Ma -->
-<style>
-body::after {
-  content: "Authorised by Haotian Ma";
-  position: fixed;
-  bottom: 10px;
-  right: 14px;
-  font-size: 9px;
-  color: rgba(120, 120, 120, 0.3);
-  z-index: 2147483647;
-  pointer-events: none;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-  letter-spacing: 0.2px;
-  user-select: none;
-}
-</style>
+<!-- License Protection -->
 <script>
 (function(){
-  var _0x=['div','attachShadow','closed','cssText','position:fixed;bottom:10px;right:14px;z-index:2147483647;pointer-events:none;','innerHTML','<span style="font-size:9px;color:rgba(120,120,120,0.3);font-family:system-ui;user-select:none;">Authorised by Haotian Ma</span>','body','appendChild','contains','childList','subtree','observe'];
-  var h=document.createElement(_0x[0]),s=h[_0x[1]]({mode:_0x[2]});
-  h.style[_0x[3]]=_0x[4];s[_0x[5]]=_0x[6];
-  document[_0x[7]][_0x[8]](h);
-  var r=function(){if(!document[_0x[7]][_0x[9]](h))document[_0x[7]][_0x[8]](h);};
-  new MutationObserver(r)[_0x[12]](document[_0x[7]],{[_0x[10]]:true,[_0x[11]]:true});
-  setInterval(r,1500);
+  var h=document.createElement('div'),s=h.attachShadow({mode:'closed'});
+  h.style.cssText='position:fixed;bottom:10px;right:14px;z-index:2147483647;';
+  s.innerHTML='<span style="font-size:9px;color:rgba(130,130,130,0.4);font-family:-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif;user-select:none;letter-spacing:0.3px;">© 2026 | Developed by <a href="https://profiles.ucl.ac.uk/101734-tianyi-ma" target="_blank" rel="noopener" style="color:rgba(130,130,130,0.4);text-decoration:none;transition:color 0.2s;" onmouseover="this.style.color=\'rgba(80,80,80,0.7)\'" onmouseout="this.style.color=\'rgba(130,130,130,0.4)\'">Haotian Ma</a></span>';
+  document.body.appendChild(h);
+  var r=function(){if(!document.body.contains(h))document.body.appendChild(h);};
+  new MutationObserver(r).observe(document.body,{childList:true,subtree:true});
+  setInterval(r,2000);
 })();
 </script>
