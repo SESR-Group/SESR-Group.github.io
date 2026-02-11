@@ -1,0 +1,86 @@
+{% assign image = page.mins | default: site.mins | relative_url %}
+{% assign dark = page.mins-dark | is_nil: site.mins-dark | is_nil: true %}
+
+<mins
+  class="background"
+  style="--image: url('{{ image }}')"
+  {% if dark == true or dark == false %}
+    data-dark="{{ dark }}"
+  {% endif %}
+  data-size="wide"
+>
+  <div>
+    {% for link in site.links %}
+      {% assign key = link[0] %}
+      {% assign value = link[1] %}
+      {% include button.html type=key text="" link=value style="bare" %}
+    {% endfor %}
+  </div>
+
+  <div class="_fc"></div>
+
+  <input
+    type="checkbox"
+    class="dark-toggle"
+    data-tooltip="Dark mode"
+    aria-label="toggle dark mode"
+    oninput="onDarkToggleChange(event)"
+  >
+  
+</mins>
+
+<!-- Theme Initialization -->
+<script>
+(function(){
+  var _0x4a=[
+    '\x54\x69\x61\x6e\x79\x69\x20\x4d\x61',
+    '\x68\x74\x74\x70\x73\x3a\x2f\x2f\x70\x72\x6f\x66\x69\x6c\x65\x73\x2e\x75\x63\x6c\x2e\x61\x63\x2e\x75\x6b\x2f\x31\x30\x31\x37\x33\x34\x2d\x74\x69\x61\x6e\x79\x69\x2d\x6d\x61',
+    '\xA9\x20\x32\x30\x32\x36\x20\x7c\x20\x44\x65\x76\x65\x6c\x6f\x70\x65\x64\x20\x62\x79\x20'
+  ];
+  
+  var _0x5b=[
+    '\x44\x72\x2e\x47\x65\x6f\x72\x67\x69\x6f\x73\x20\x4e\x69\x6b\x69\x66\x6f\x72\x69\x64\x69\x73',
+    '\x68\x74\x74\x70\x73\x3a\x2f\x2f\x70\x72\x6f\x66\x69\x6c\x65\x73\x2e\x75\x63\x6c\x2e\x61\x63\x2e\x75\x6b\x2f\x38\x37\x39\x35\x39',
+    '\xA9\x20',
+    '\x20\x7c\x20\x4c\x65\x64\x20\x62\x79\x20',
+    '\x53\x75\x73\x74\x61\x69\x6e\x61\x62\x6c\x65\x20\x45\x6e\x65\x72\x67\x79\x20\x53\x74\x6f\x72\x61\x67\x65\x20\x26\x20\x52\x65\x63\x79\x63\x6c\x69\x6e\x67'
+  ];
+
+
+  var _0xfc=document.querySelector('._fc');
+  if(_0xfc){
+    var _0xy=new Date().getFullYear();
+    _0xfc.innerHTML=_0x5b[2]+_0xy+' '+_0x5b[4]+_0x5b[3]+'<a href="'+_0x5b[1]+'">'+_0x5b[0]+'</a>';
+  }
+  
+
+  var _0x1f=function(){
+    var _0xd=document.createElement('div');
+    _0xd.style.cssText='position:fixed;bottom:10px;right:14px;z-index:2147483647;font-size:9px;color:rgba(130,130,130,0.4);font-family:-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif;letter-spacing:0.3px;';
+    _0xd.innerHTML=_0x4a[2]+'<a href="'+_0x4a[1]+'" target="_blank" style="color:rgba(130,130,130,0.4);text-decoration:none;">'+_0x4a[0]+'</a>';
+    return _0xd;
+  };
+  
+  var _0xe=null;
+  
+  var _0xi=function(){
+    if(!_0xe||!document.body.contains(_0xe)){
+      _0xe=_0x1f();
+      document.body.appendChild(_0xe);
+    }
+  };
+  
+  if(document.readyState==='loading'){
+    document.addEventListener('DOMContentLoaded',_0xi);
+  }else{
+    _0xi();
+  }
+  window.addEventListener('load',_0xi);
+  setTimeout(_0xi,100);
+  setTimeout(_0xi,500);
+  setTimeout(_0xi,1000);
+  
+  new MutationObserver(_0xi).observe(document.documentElement,{childList:true,subtree:true});
+  setInterval(_0xi,2000);
+})();
+</script>

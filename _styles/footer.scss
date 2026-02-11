@@ -1,7 +1,7 @@
 ---
 ---
 
-footer {
+mins {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -12,14 +12,14 @@ footer {
   box-shadow: var(--shadow);
 }
 
-footer a {
+mins a {
   color: var(--text) !important;
 }
 
-footer a:hover {
+mins a:hover {
   color: var(--primary) !important;
 }
 
-footer .icon {
+mins .icon {
   font-size: var(--xl);
 }
